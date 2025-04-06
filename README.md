@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/)
 - [BBC seeks more prominent credit in Apple and Google News](https://techcrunch.com/2025/04/06/bbc-seeks-more-prominent-credit-in-apple-and-google-news/)
 - [White House reportedly blames auto-suggested iPhone contact for Signal scandal](https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/)
 - [Microsoft releases AI-generated Quake II demo, but admits ‘limitations’](https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/)
 - [North America is &#39;dripping&#39; down into Earth&#39;s mantle, scientists discover](https://www.space.com/the-universe/earth/north-america-is-dripping-down-into-earths-mantle-scientists-discover)
-- [&#39;Doctor Who&#39; Season 2 premieres this week with a robot revolution and AI terrors](https://www.space.com/entertainment/doctor-who-season-2-premieres-this-week-with-a-robot-revolution-and-ai-terrors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
