@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White House reportedly blames auto-suggested iPhone contact for Signal scandal](https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/)
 - [Microsoft releases AI-generated Quake II demo, but admits ‘limitations’](https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/)
 - [North America is &#39;dripping&#39; down into Earth&#39;s mantle, scientists discover](https://www.space.com/the-universe/earth/north-america-is-dripping-down-into-earths-mantle-scientists-discover)
 - [&#39;Doctor Who&#39; Season 2 premieres this week with a robot revolution and AI terrors](https://www.space.com/entertainment/doctor-who-season-2-premieres-this-week-with-a-robot-revolution-and-ai-terrors)
 - [Lyrid meteor shower 2025 peaks this month: Could we be in for a surprise outburst this year?](https://www.space.com/stargazing/meteors-showers/lyrid-meteor-shower-2025-peaks-this-month-could-we-be-in-for-a-surprise-outburst-this-year)
-- [NASA website removes &#39;First Woman&#39; graphic novel — but here&#39;s where you can still find it](https://www.space.com/space-exploration/nasa-website-removes-first-woman-graphic-novel-but-heres-where-you-can-still-find-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
