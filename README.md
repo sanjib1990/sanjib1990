@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How bacteria could help build and maintain cities on the moon](https://www.space.com/the-universe/moon/how-bacteria-could-help-build-and-maintain-cities-on-the-moon)
 - [SpaceX launches 28 Starlink satellites to orbit from Florida&#39;s Space Coast &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-from-floridas-space-coast-photos)
 - [DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data](https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/)
 - [Meta releases Llama 4, a new crop of flagship AI models](https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/)
 - [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/)
-- [‘A Minecraft Movie’ is on-track for a $135M opening weekend](https://techcrunch.com/2025/04/05/a-minecraft-movie-is-on-track-for-a-135m-opening-weekend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
