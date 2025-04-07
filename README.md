@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite jamming is a real and growing threat. How can we protect our space infrastructure?](https://www.space.com/space-exploration/satellites/satellite-jamming-is-a-real-and-growing-threat-how-can-we-protect-our-space-infrastructure)
 - [Want to stay young? Peter Diamandis says survive the next 10 years](https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/)
 - [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/)
 - [BBC seeks more prominent credit in Apple and Google News](https://techcrunch.com/2025/04/06/bbc-seeks-more-prominent-credit-in-apple-and-google-news/)
 - [White House reportedly blames auto-suggested iPhone contact for Signal scandal](https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/)
-- [Microsoft releases AI-generated Quake II demo, but admits ‘limitations’](https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
