@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearby star photobombs portrait of a distant galaxy in new Hubble Telescope image](https://www.space.com/space-exploration/hubble-space-telescope/nearby-star-photobombs-portrait-of-a-distant-galaxy-in-new-hubble-telescope-image)
-- [Scientists find rare double-star spiral doomed for supernova explosion](https://www.space.com/the-universe/stars/scientists-find-rare-double-star-spiral-doomed-for-supernova-explosion)
-- [Meta exec denies the company artificially boosted Llama 4’s benchmark scores](https://techcrunch.com/2025/04/07/meta-exec-denies-the-company-artificially-boosted-llama-4s-benchmark-scores/)
-- [Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs](https://techcrunch.com/2025/04/07/analyst-says-apple-tesla-have-biggest-exposure-to-trumps-tariffs/)
-- [The new &#39;Superman&#39; trailer first shown at CinemaCon is finally available for the rest of us &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-new-superman-trailer-first-shown-at-cinemacon-is-finally-available-for-the-rest-of-us-video)
+- [Amazon says its AI video model can now generate minutes-long clips](https://techcrunch.com/2025/04/07/amazon-says-its-ai-video-model-can-now-generate-minutes-long-clips/)
+- [How one tweet wreaked havoc on the stock market](https://techcrunch.com/2025/04/07/how-one-tweet-wreaked-havoc-on-the-stock-market/)
+- [Indian experiment module falls from space and crashes into ocean, but it&#39;s all according to plan](https://www.space.com/space-exploration/satellites/indian-experiment-module-falls-from-space-and-crashes-into-ocean-but-its-all-according-to-plan)
+- [Nikola founder Trevor Milton wants to buy the bankrupt startup’s assets](https://techcrunch.com/2025/04/07/nikola-founder-trevor-milton-wants-to-buy-the-bankrupt-startups-assets/)
+- [Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’](https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
