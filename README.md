@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM acquires consultancy Hakkoda in continued AI investment push](https://techcrunch.com/2025/04/07/ibm-acquires-consultancy-hakkoda-as-it-continues-its-ai-investment-push/)
-- [SignalFire raises over $1B as LPs embrace data-driven investing](https://techcrunch.com/2025/04/07/signalfire-raises-over-1b-as-lps-embrace-data-driven-investing/)
-- [&#39;Major disruption&#39; has caused Arctic polar vortex to slide off North Pole, scientists say](https://www.space.com/the-universe/earth/major-disruption-has-caused-arctic-polar-vortex-to-slide-off-north-pole-scientists-say)
-- [OpenAI reportedly mulls buying Jony Ive and Sam Altman’s AI hardware startup](https://techcrunch.com/2025/04/07/openai-reportedly-mulls-buying-jony-ive-and-sam-altmans-ai-hardware-startup/)
-- [The most powerful explosions in the universe could reveal where gold comes from](https://www.space.com/the-universe/the-most-powerful-explosions-in-the-universe-could-reveal-where-gold-comes-from)
+- [How rare are inhabited worlds in the universe? The &#39;LIFE&#39; space telescope fleet could find out](https://www.space.com/space-exploration/search-for-life/how-rare-are-inhabited-worlds-in-the-universe-the-life-space-telescope-fleet-could-find-out)
+- [AI video startup Moonvalley raised a fresh $43M, SEC filing shows](https://techcrunch.com/2025/04/07/ai-video-startup-moonvalley-raised-a-fresh-43m-sec-filing-shows/)
+- [UK’s demand for Apple backdoor should not be heard in secret, says court](https://techcrunch.com/2025/04/07/uk-demand-for-apple-backdoor-should-not-be-heard-in-secret-says-court/)
+- [Krea raises $83M to be the one-stop shop for genAI creatives](https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/)
+- [IBM acquires Hakkoda to continue its AI consultancy investment push](https://techcrunch.com/2025/04/07/ibm-acquires-consultancy-hakkoda-as-it-continues-its-ai-investment-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
