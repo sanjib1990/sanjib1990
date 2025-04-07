@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A day on Uranus is actually longer than we thought, Hubble Telescope reveals](https://www.space.com/the-universe/uranus/a-day-on-uranus-is-actually-longer-than-we-thought-hubble-telescope-reveals)
+- [Microsoft reportedly fires staff whose protest interrupted its Copilot event](https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/)
 - [Amazon says its AI video model can now generate minutes-long clips](https://techcrunch.com/2025/04/07/amazon-says-its-ai-video-model-can-now-generate-minutes-long-clips/)
 - [How one tweet wreaked havoc on the stock market](https://techcrunch.com/2025/04/07/how-one-tweet-wreaked-havoc-on-the-stock-market/)
 - [Indian experiment module falls from space and crashes into ocean, but it&#39;s all according to plan](https://www.space.com/space-exploration/satellites/indian-experiment-module-falls-from-space-and-crashes-into-ocean-but-its-all-according-to-plan)
-- [Nikola founder Trevor Milton wants to buy the bankrupt startup’s assets](https://techcrunch.com/2025/04/07/nikola-founder-trevor-milton-wants-to-buy-the-bankrupt-startups-assets/)
-- [Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’](https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
