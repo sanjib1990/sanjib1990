@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs](https://techcrunch.com/2025/04/07/analyst-says-apple-tesla-have-biggest-exposure-to-trumps-tariffs/)
+- [The new &#39;Superman&#39; trailer first shown at CinemaCon is finally available for the rest of us &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-new-superman-trailer-first-shown-at-cinemacon-is-finally-available-for-the-rest-of-us-video)
+- [Former Tesla exec Drew Baglino’s new startup is rethinking the electrical transformer](https://techcrunch.com/2025/04/07/former-tesla-exec-drew-baglinos-new-startup-is-rethinking-the-electrical-transformer/)
 - [Moon mission patch beamed onto rocket assembly building: Space photo of the day](https://www.space.com/space-exploration/artemis/moon-mission-patch-beamed-onto-rocket-assembly-building-space-photo-of-the-day)
 - [SpaceX&#39;s Fram2 mission captures 1st human X-ray in Earth orbit](https://www.space.com/space-exploration/private-spaceflight/spacexs-fram2-mission-captures-1st-human-x-ray-in-earth-orbit)
-- [Waymo may use interior camera data to train generative AI models, sell ads](https://techcrunch.com/2025/04/07/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/)
-- [Google’s AI Mode now lets users ask complex questions about images](https://techcrunch.com/2025/04/07/googles-ai-mode-now-lets-users-ask-complex-questions-about-images/)
-- [Shopify CEO tells teams to consider using AI before growing headcount](https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
