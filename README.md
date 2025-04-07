@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find rare double-star spiral doomed for supernova explosion](https://www.space.com/the-universe/stars/scientists-find-rare-double-star-spiral-doomed-for-supernova-explosion)
+- [Meta exec denies the company artificially boosted Llama 4’s benchmark scores](https://techcrunch.com/2025/04/07/meta-exec-denies-the-company-artificially-boosted-llama-4s-benchmark-scores/)
 - [Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs](https://techcrunch.com/2025/04/07/analyst-says-apple-tesla-have-biggest-exposure-to-trumps-tariffs/)
 - [The new &#39;Superman&#39; trailer first shown at CinemaCon is finally available for the rest of us &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-new-superman-trailer-first-shown-at-cinemacon-is-finally-available-for-the-rest-of-us-video)
 - [Former Tesla exec Drew Baglino’s new startup is rethinking the electrical transformer](https://techcrunch.com/2025/04/07/former-tesla-exec-drew-baglinos-new-startup-is-rethinking-the-electrical-transformer/)
-- [Moon mission patch beamed onto rocket assembly building: Space photo of the day](https://www.space.com/space-exploration/artemis/moon-mission-patch-beamed-onto-rocket-assembly-building-space-photo-of-the-day)
-- [SpaceX&#39;s Fram2 mission captures 1st human X-ray in Earth orbit](https://www.space.com/space-exploration/private-spaceflight/spacexs-fram2-mission-captures-1st-human-x-ray-in-earth-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
