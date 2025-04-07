@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon mission patch beamed onto rocket assembly building: Space photo of the day](https://www.space.com/space-exploration/artemis/moon-mission-patch-beamed-onto-rocket-assembly-building-space-photo-of-the-day)
+- [SpaceX&#39;s Fram2 mission captures 1st human X-ray in Earth orbit](https://www.space.com/space-exploration/private-spaceflight/spacexs-fram2-mission-captures-1st-human-x-ray-in-earth-orbit)
 - [Waymo may use interior camera data to train generative AI models, sell ads](https://techcrunch.com/2025/04/07/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/)
 - [Google’s AI Mode now lets users ask complex questions about images](https://techcrunch.com/2025/04/07/googles-ai-mode-now-lets-users-ask-complex-questions-about-images/)
 - [Shopify CEO tells teams to consider using AI before growing headcount](https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/)
-- [Nintendo says it is ‘actively assessing’ the impact of U.S. tariffs](https://techcrunch.com/2025/04/07/nintendo-says-it-is-actively-assessing-the-impact-of-u-s-tariffs/)
-- [How rare are inhabited worlds in the universe? The &#39;LIFE&#39; space telescope fleet could find out](https://www.space.com/space-exploration/search-for-life/how-rare-are-inhabited-worlds-in-the-universe-the-life-space-telescope-fleet-could-find-out)
 <!-- BLOG-POST-LIST:END -->
 
 ---
