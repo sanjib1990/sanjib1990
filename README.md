@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Should Students Use AI?](https://www.youtube.com/watch?v=cJZnlnT0rPA)
 - [Respected computer scientist mysteriously disappears...](https://www.youtube.com/watch?v=LjbNtw14TwI)
 - [Lec 16: Input Markets II—Labor and Capital](https://www.youtube.com/watch?v=Zl92WCm30bU)
 - [Lec 3: Budget Constraints and Constrained Choice](https://www.youtube.com/watch?v=c8K_FSLtceQ)
 - [Lec 4: Demand Curves and Income/Substitution Effects](https://www.youtube.com/watch?v=Qj1HvrSKLqY)
-- [Lec 7: Competition I](https://www.youtube.com/watch?v=IYwk6EwPmCg)
 <!-- YOUTUBE:END -->
 
 ---
