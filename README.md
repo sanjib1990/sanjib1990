@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New comet SWAN25F is turning heads — and telescopes — toward the morning sky](https://www.space.com/stargazing/new-comet-swan25f-is-turning-heads-and-telescopes-toward-the-morning-sky)
+- [Someone hacked ransomware gang Everest’s leak site](https://techcrunch.com/2025/04/07/someone-hacked-everest-ransomware-gang-dark-web-leak-site/)
 - [Watch Soyuz rocket launch new US-Russian crew to the ISS early April 8](https://www.space.com/space-exploration/launches-spacecraft/soyuz-rocket-launch-ms-27-astronaut-mission-iss-webcast)
 - [Satellite jamming is a real and growing threat. How can we protect our space infrastructure?](https://www.space.com/space-exploration/satellites/satellite-jamming-is-a-real-and-growing-threat-how-can-we-protect-our-space-infrastructure)
 - [Want to stay young? Peter Diamandis says survive the next 10 years](https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/)
-- [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/)
-- [BBC seeks more prominent credit in Apple and Google News](https://techcrunch.com/2025/04/06/bbc-seeks-more-prominent-credit-in-apple-and-google-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
