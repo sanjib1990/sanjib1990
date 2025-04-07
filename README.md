@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/)
 - [A day on Uranus is actually longer than we thought, Hubble Telescope reveals](https://www.space.com/the-universe/uranus/a-day-on-uranus-is-actually-longer-than-we-thought-hubble-telescope-reveals)
 - [Microsoft reportedly fires staff whose protest interrupted its Copilot event](https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/)
 - [Amazon says its AI video model can now generate minutes-long clips](https://techcrunch.com/2025/04/07/amazon-says-its-ai-video-model-can-now-generate-minutes-long-clips/)
 - [How one tweet wreaked havoc on the stock market](https://techcrunch.com/2025/04/07/how-one-tweet-wreaked-havoc-on-the-stock-market/)
-- [Indian experiment module falls from space and crashes into ocean, but it&#39;s all according to plan](https://www.space.com/space-exploration/satellites/indian-experiment-module-falls-from-space-and-crashes-into-ocean-but-its-all-according-to-plan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
