@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia and China are threatening SpaceX&#39;s Starlink satellite constellation, new report finds](https://www.space.com/space-exploration/tech/russia-and-china-are-threatening-spacexs-starlink-satellite-constellation-new-report-finds)
-- [Google fixes two Android zero-day bugs actively exploited by hackers](https://techcrunch.com/2025/04/08/google-fixes-two-android-zero-day-bugs-actively-exploited-by-hackers/)
-- [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/)
-- [Amazon’s Zoox begins robotaxi testing in Los Angeles](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/)
-- [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/)
+- [A flower&#39;s point of view of a rocket launch: Space photo of the day](https://www.space.com/space-exploration/international-space-station/a-flowers-point-of-view-of-a-rocket-launch-space-photo-of-the-day)
+- [Record-breaking &#39;dead&#39; galaxy discovered by JWST lived fast and died young in the early universe](https://www.space.com/the-universe/record-breaking-dead-galaxy-discovered-by-jwst-lived-fast-and-died-young-in-the-early-universe)
+- [A nonprofit is using AI agents to raise money for charity](https://techcrunch.com/2025/04/08/a-nonprofit-is-using-ai-agents-to-raise-money-for-charity/)
+- [Want to see a lightcycle cut a cop car in half? Check out the 1st &#39;Tron: Ares&#39; teaser trailer &lpar;video&rpar;](https://www.space.com/entertainment/want-to-see-a-lightcycle-cut-a-cop-car-in-half-check-out-the-1st-tron-ares-teaser-trailer-video)
+- [Save a massive $160 on the Ruko F11Pro 2 drone, a drone with a 6K camera and it&#39;s now one of the lowest prices we&#39;ve seen](https://www.space.com/tech/save-a-massive-160-dollars-on-the-ruko-f11pro-2-drone-one-of-the-lowest-prices-weve-seen-clone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
