@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia and China are threatening SpaceX&#39;s Starlink satellite constellation, new report finds](https://www.space.com/space-exploration/tech/russia-and-china-are-threatening-spacexs-starlink-satellite-constellation-new-report-finds)
+- [Google fixes two Android zero-day bugs actively exploited by hackers](https://techcrunch.com/2025/04/08/google-fixes-two-android-zero-day-bugs-actively-exploited-by-hackers/)
+- [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/)
+- [Amazon’s Zoox begins robotaxi testing in Los Angeles](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/)
 - [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/)
-- [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/)
-- [The Void revealed as the big bad guy for Marvel Studios&#39; &#39;Thunderbolts* in new teaser trailer &lpar;video&rpar;](https://www.space.com/entertainment/the-void-revealed-as-the-big-bad-guy-for-marvel-studios-thunderbolts-in-new-teaser-trailer-video)
-- [Trump to endorse coal for data center power in the face of grim market realities](https://techcrunch.com/2025/04/08/trump-to-endorse-coal-for-data-center-power-in-the-face-of-grim-market-realities/)
-- [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
