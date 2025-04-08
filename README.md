@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta introduces restricted Teen Accounts to Facebook and Messenger](https://techcrunch.com/2025/04/08/meta-introduces-restricted-teen-accounts-to-facebook-and-messenger/)
+- [1 year since the Great North American Eclipse — Here&#39;s how the 2026 total eclipse will compare](https://www.space.com/stargazing/eclipses/1-year-since-the-great-north-american-eclipse-heres-how-the-2026-total-eclipse-will-compare)
+- [Turkey’s Sipay raises $78M to expand its Stripe-like services into emerging markets](https://techcrunch.com/2025/04/08/turkeys-sipay-raises-78m-to-expand-its-stripe-like-services-into-emerging-markets/)
 - [Apple might import more iPhones from India to side-step China tariffs](https://techcrunch.com/2025/04/08/apple-might-import-more-iphones-from-india-to-side-step-china-tariffs/)
 - [NASA&#39;s Jonny Kim and 2 cosmonauts arrive at ISS aboard Russian Soyuz spacecraft](https://www.space.com/space-exploration/international-space-station/nasas-jonny-kim-and-2-cosmonauts-arrive-at-iss-aboard-russian-soyuz-spacecraft)
-- [What is dark matter made of? New study bolsters case for &#39;primordial&#39; black holes](https://www.space.com/the-universe/black-holes/what-is-dark-matter-made-of-new-study-bolsters-case-for-primordial-black-holes)
-- [Navy SEAL-doctor-astronaut lifts off with cosmonauts on Russian flight to ISS](https://www.space.com/space-exploration/international-space-station/navy-seal-doctor-astronaut-lifts-off-with-cosmonauts-on-russian-flight-to-iss)
-- [IBM releases a new mainframe built for the age of AI](https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
