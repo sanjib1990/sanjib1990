@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/)
 - [Instagram is beefing up its search to compete with TikTok](https://techcrunch.com/2025/04/08/instagram-is-beefing-up-its-search-to-compete-with-tiktok/)
 - [We now know the shape of notorious asteroid 2024 YR4 that dominated headlines recently — it&#39;s probably &#39;suburban,&#39; too](https://www.space.com/the-universe/asteroids/we-now-know-the-shape-of-notorious-asteroid-2024-yr4-that-dominated-headlines-recently-its-probably-suburban-too)
 - [How to watch Jared Isaacman&#39;s NASA chief confirmation hearing in the Senate on April 9](https://www.space.com/space-exploration/watch-jared-isaacman-nasa-chief-confirmation-senate-hearing-senate-on-april-9)
 - [Black holes as batteries: Could humanity ever harness the energy of these cosmic titans?](https://www.space.com/the-universe/black-holes-as-batteries-could-humanity-ever-harness-the-energy-of-these-cosmic-titans)
-- [NASA&#39;s in a &#39;weird period&#39; right now, acting chief Janet Petro says](https://www.space.com/space-exploration/missions/nasas-in-a-weird-period-right-now-acting-chief-janet-petro-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
