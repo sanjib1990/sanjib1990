@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mira Murati’s AI startup gains prominent ex-OpenAI advisors](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisors/)
+- [Scientists spice up old Hubble Telescope image to shine light on spectacular star cluster](https://www.space.com/space-exploration/hubble-space-telescope/scientists-spice-up-old-hubble-telescope-image-to-shine-light-on-spectacular-star-cluster)
+- [Snapchat rolls out Sponsored AI Lenses for brands](https://techcrunch.com/2025/04/08/snapchat-rolls-out-sponsored-ai-lenses-for-brands/)
+- [Amazon unveils a new AI voice model, Nova Sonic](https://techcrunch.com/2025/04/08/amazon-unveils-a-new-ai-voice-model-nova-sonic/)
 - [Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants](https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/)
-- [XL Batteries is using petrochemical infrastructure to store solar and wind power](https://techcrunch.com/2025/04/08/xl-batteries-is-using-petrochemical-infrastructure-to-store-solar-and-wind-power/)
-- [Sizl raises $3.5M to expand its cook-to-order food delivery service](https://techcrunch.com/2025/04/08/sizl-raises-3-5m-to-expand-its-cook-to-order-food-delivery-service/)
-- [South Korea is converting an abandoned coal mine into a moon exploration testing ground](https://www.space.com/the-universe/moon/south-korea-is-converting-an-abandoned-coal-mine-into-a-moon-exploration-testing-ground)
-- [Meta introduces restricted Teen Accounts to Facebook and Messenger](https://techcrunch.com/2025/04/08/meta-introduces-restricted-teen-accounts-to-facebook-and-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
