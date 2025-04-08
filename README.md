@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This baby galaxy cluster is powering extreme star formation with a hidden fuel tank](https://www.space.com/the-universe/this-baby-galaxy-cluster-is-powering-extreme-star-formation-with-a-hidden-fuel-tank)
+- [At last, MrBeast weighs in on the global economic crisis du jour](https://techcrunch.com/2025/04/08/at-last-mrbeast-weighs-in-on-the-global-economic-crisis-du-jour/)
 - [US needs &#39;orbital interceptors&#39; to win a war in space, Space Command chief says](https://www.space.com/space-exploration/launches-spacecraft/us-needs-orbital-interceptors-to-win-a-war-in-space-space-command-chief-says)
 - [Bangladesh becomes 54th nation to join NASA&#39;s Artemis Accords for &#39;peaceful exploration of deep space&#39;](https://www.space.com/space-exploration/artemis/bangladesh-becomes-54th-nation-to-join-nasas-artemis-accords-for-peaceful-exploration-of-deep-space)
 - [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/)
-- [A flower&#39;s point of view of a rocket launch: Space photo of the day](https://www.space.com/space-exploration/international-space-station/a-flowers-point-of-view-of-a-rocket-launch-space-photo-of-the-day)
-- [Record-breaking &#39;dead&#39; galaxy discovered by JWST lived fast and died young in the early universe](https://www.space.com/the-universe/record-breaking-dead-galaxy-discovered-by-jwst-lived-fast-and-died-young-in-the-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
