@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lunar Quilts capture crafters, astronaut&#39;s take on return to the moon](https://www.space.com/space-exploration/artemis/lunar-quilts-capture-crafters-astronauts-take-on-return-to-the-moon)
-- [Waymo may use interior camera data to train generative AI models, but riders will be able to opt out](https://techcrunch.com/2025/04/08/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/)
-- [Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/)
-- [Mira Murati’s AI startup gains prominent ex-OpenAI advisors](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisors/)
-- [Scientists spice up old Hubble Telescope image to shine light on spectacular star cluster](https://www.space.com/space-exploration/hubble-space-telescope/scientists-spice-up-old-hubble-telescope-image-to-shine-light-on-spectacular-star-cluster)
+- [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/)
+- [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/)
+- [The Void revealed as the big bad guy for Marvel Studios&#39; &#39;Thunderbolts* in new teaser trailer &lpar;video&rpar;](https://www.space.com/entertainment/the-void-revealed-as-the-big-bad-guy-for-marvel-studios-thunderbolts-in-new-teaser-trailer-video)
+- [Trump to endorse coal for data center power in the face of grim market realities](https://techcrunch.com/2025/04/08/trump-to-endorse-coal-for-data-center-power-in-the-face-of-grim-market-realities/)
+- [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
