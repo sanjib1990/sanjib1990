@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lunar Quilts capture crafters, astronaut&#39;s take on return to the moon](https://www.space.com/space-exploration/artemis/lunar-quilts-capture-crafters-astronauts-take-on-return-to-the-moon)
+- [Waymo may use interior camera data to train generative AI models, but riders will be able to opt out](https://techcrunch.com/2025/04/08/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/)
+- [Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/)
 - [Mira Murati’s AI startup gains prominent ex-OpenAI advisors](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisors/)
 - [Scientists spice up old Hubble Telescope image to shine light on spectacular star cluster](https://www.space.com/space-exploration/hubble-space-telescope/scientists-spice-up-old-hubble-telescope-image-to-shine-light-on-spectacular-star-cluster)
-- [Snapchat rolls out Sponsored AI Lenses for brands](https://techcrunch.com/2025/04/08/snapchat-rolls-out-sponsored-ai-lenses-for-brands/)
-- [Amazon unveils a new AI voice model, Nova Sonic](https://techcrunch.com/2025/04/08/amazon-unveils-a-new-ai-voice-model-nova-sonic/)
-- [Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants](https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
