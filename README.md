@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s in a &#39;weird period&#39; right now, acting chief Janet Petro says](https://www.space.com/space-exploration/missions/nasas-in-a-weird-period-right-now-acting-chief-janet-petro-says)
+- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/)
+- [No, Stripe is not becoming a bank](https://techcrunch.com/2025/04/08/no-stripe-is-not-becoming-a-bank/)
+- [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/)
 - [This baby galaxy cluster is powering extreme star formation with a hidden fuel tank](https://www.space.com/the-universe/this-baby-galaxy-cluster-is-powering-extreme-star-formation-with-a-hidden-fuel-tank)
-- [At last, MrBeast weighs in on the global economic crisis du jour](https://techcrunch.com/2025/04/08/at-last-mrbeast-weighs-in-on-the-global-economic-crisis-du-jour/)
-- [US needs &#39;orbital interceptors&#39; to win a war in space, Space Command chief says](https://www.space.com/space-exploration/launches-spacecraft/us-needs-orbital-interceptors-to-win-a-war-in-space-space-command-chief-says)
-- [Bangladesh becomes 54th nation to join NASA&#39;s Artemis Accords for &#39;peaceful exploration of deep space&#39;](https://www.space.com/space-exploration/artemis/bangladesh-becomes-54th-nation-to-join-nasas-artemis-accords-for-peaceful-exploration-of-deep-space)
-- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
