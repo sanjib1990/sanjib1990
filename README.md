@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US needs &#39;orbital interceptors&#39; to win a war in space, Space Command chief says](https://www.space.com/space-exploration/launches-spacecraft/us-needs-orbital-interceptors-to-win-a-war-in-space-space-command-chief-says)
+- [Bangladesh becomes 54th nation to join NASA&#39;s Artemis Accords for &#39;peaceful exploration of deep space&#39;](https://www.space.com/space-exploration/artemis/bangladesh-becomes-54th-nation-to-join-nasas-artemis-accords-for-peaceful-exploration-of-deep-space)
+- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/)
 - [A flower&#39;s point of view of a rocket launch: Space photo of the day](https://www.space.com/space-exploration/international-space-station/a-flowers-point-of-view-of-a-rocket-launch-space-photo-of-the-day)
 - [Record-breaking &#39;dead&#39; galaxy discovered by JWST lived fast and died young in the early universe](https://www.space.com/the-universe/record-breaking-dead-galaxy-discovered-by-jwst-lived-fast-and-died-young-in-the-early-universe)
-- [A nonprofit is using AI agents to raise money for charity](https://techcrunch.com/2025/04/08/a-nonprofit-is-using-ai-agents-to-raise-money-for-charity/)
-- [Want to see a lightcycle cut a cop car in half? Check out the 1st &#39;Tron: Ares&#39; teaser trailer &lpar;video&rpar;](https://www.space.com/entertainment/want-to-see-a-lightcycle-cut-a-cop-car-in-half-check-out-the-1st-tron-ares-teaser-trailer-video)
-- [Save a massive $160 on the Ruko F11Pro 2 drone, a drone with a 6K camera and it&#39;s now one of the lowest prices we&#39;ve seen](https://www.space.com/tech/save-a-massive-160-dollars-on-the-ruko-f11pro-2-drone-one-of-the-lowest-prices-weve-seen-clone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
