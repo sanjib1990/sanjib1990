@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Navy SEAL-doctor-astronaut lifts off with cosmonauts on Russian flight to ISS](https://www.space.com/space-exploration/international-space-station/navy-seal-doctor-astronaut-lifts-off-with-cosmonauts-on-russian-flight-to-iss)
 - [IBM releases a new mainframe built for the age of AI](https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/)
 - [SpaceX launches 27 Starlink satellites on brand-new Falcon 9 rocket, aces Pacific Ocean landing &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-11-b1091-satellite-launch-vandenberg)
 - [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/)
 - [A day on Uranus is actually longer than we thought, Hubble Telescope reveals](https://www.space.com/the-universe/uranus/a-day-on-uranus-is-actually-longer-than-we-thought-hubble-telescope-reveals)
-- [Microsoft reportedly fires staff whose protest interrupted its Copilot event](https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
