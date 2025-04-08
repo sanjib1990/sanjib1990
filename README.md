@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch Jared Isaacman&#39;s NASA chief confirmation hearing in the Senate on April 9](https://www.space.com/space-exploration/watch-jared-isaacman-nasa-chief-confirmation-senate-hearing-senate-on-april-9)
+- [Black holes as batteries: Could humanity ever harness the energy of these cosmic titans?](https://www.space.com/the-universe/black-holes-as-batteries-could-humanity-ever-harness-the-energy-of-these-cosmic-titans)
 - [NASA&#39;s in a &#39;weird period&#39; right now, acting chief Janet Petro says](https://www.space.com/space-exploration/missions/nasas-in-a-weird-period-right-now-acting-chief-janet-petro-says)
 - [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/)
 - [No, Stripe is not becoming a bank](https://techcrunch.com/2025/04/08/no-stripe-is-not-becoming-a-bank/)
-- [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/)
-- [This baby galaxy cluster is powering extreme star formation with a hidden fuel tank](https://www.space.com/the-universe/this-baby-galaxy-cluster-is-powering-extreme-star-formation-with-a-hidden-fuel-tank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
