@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More good news for New York startups: Lerer Hippeau raised another $200M](https://techcrunch.com/2025/04/09/more-good-news-for-new-york-startups-lerer-hippeau-raised-another-200m/)
+- [Conservationists raise alarm over Air Force plan to land SpaceX Starships on bird sanctuary atoll](https://www.space.com/space-exploration/launches-spacecraft/conservationists-raise-alarm-over-air-force-plan-to-land-spacex-starships-on-bird-sanctuary-atoll)
+- [Best small telescopes 2025: Portable, lightweight models to travel with](https://www.space.com/stargazing/astronomy-kit/best-small-telescopes)
+- [OpenAI launches program to design new ‘domain-specific’ AI benchmarks](https://techcrunch.com/2025/04/09/openai-launches-program-to-design-new-domain-specific-ai-benchmarks/)
 - [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/)
-- [Kalshi CEO: ‘State law doesn’t really apply’ to us](https://techcrunch.com/2025/04/09/kalshi-ceo-state-law-doesnt-really-apply-to-us/)
-- [MIT study finds that AI doesn’t, in fact, have values](https://techcrunch.com/2025/04/09/mit-study-finds-that-ai-doesnt-in-fact-have-values/)
-- [YouTube expands its ‘likeness’ detection technology, which detects AI fakes, to a handful of top creators](https://techcrunch.com/2025/04/09/youtube-expands-its-likeness-detection-technology-which-detects-ai-fakes-to-a-handful-of-top-creators/)
-- [That&#39;s no space station, it&#39;s a student-led drone show: Space photo of the day](https://www.space.com/entertainment/thats-no-space-station-its-a-student-led-drone-show-space-photo-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
