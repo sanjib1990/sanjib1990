@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia’s H20 AI chips may be spared from export controls — for now](https://techcrunch.com/2025/04/09/nvidias-h20-ai-chips-may-be-spared-from-export-controls-for-now/)
-- [Threads is testing a feature that lets you follow the same creators you follow on X](https://techcrunch.com/2025/04/09/threads-is-testing-a-feature-that-lets-you-follow-the-same-creators-you-follow-on-x/)
-- [Keeping space safe is the &#39;ultimate team sport&#39;, and the US Space Force has a new playbook](https://www.space.com/space-exploration/launches-spacecraft/keeping-space-safe-is-the-ultimate-team-sport-and-the-us-space-force-has-a-new-playbook)
-- [China and Pakistan agree to fly 1st foreign astronaut to Chinese space station](https://www.space.com/space-exploration/human-spaceflight/china-and-pakistan-agree-to-fly-1st-foreign-astronaut-to-chinese-space-station)
-- [Trump&#39;s pick for NASA chief tells Senate he&#39;s aiming for the Red Planet. &#39;We will prioritize sending American astronauts to Mars&#39;](https://www.space.com/space-exploration/we-will-prioritize-sending-american-astronauts-to-mars-trumps-pick-for-nasa-chief-puts-focus-on-the-red-planet)
+- [a16z backs Base Power in $200M round for home backup batteries](https://techcrunch.com/2025/04/09/a16z-backs-base-power-in-200m-round-for-home-backup-batteries/)
+- [SpaceX to launch new Intuitive Machines moon lander, lunar satellites in 2027](https://www.space.com/space-exploration/spacex-to-launch-fourth-intuitive-machines-moon-lander-lunar-satellites-in-2027)
+- [Meta whistleblower Sarah Wynn-Williams says company targeted ads at teens based on their ’emotional state’](https://techcrunch.com/2025/04/09/meta-whistleblower-sarah-wynn-williams-says-company-targeted-ads-at-teens-based-on-their-emotional-state/)
+- [A Waymo robotaxi got trapped in Chick-fil-A drive-through](https://techcrunch.com/2025/04/09/a-waymo-robotaxi-got-trapped-in-chick-fil-a-drive-through/)
+- [Whistleblower Sarah Wynn-Williams accuses Meta of colluding with China](https://techcrunch.com/2025/04/09/whistleblower-sarah-wynn-williams-accuses-meta-of-colluding-with-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
