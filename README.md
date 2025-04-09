@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How science gets tested on alien worlds: &#39;We quickly realize how much there is yet to discover&#39;](https://www.space.com/the-universe/exoplanets/how-science-gets-tested-on-alien-worlds-we-quickly-realize-how-much-there-is-yet-to-discover)
 - [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/)
 - [Google’s newest Gemini AI model focuses on efficiency](https://techcrunch.com/2025/04/09/googles-newest-gemini-ai-model-focuses-on-efficiency/)
 - [Google Workspace gets automation flows, podcast-style summaries](https://techcrunch.com/2025/04/09/google-workspace-gets-automation-flows-podcast-style-summaries/)
 - [Google’s enterprise cloud gets a music-generating AI model](https://techcrunch.com/2025/04/09/google-brings-a-music-generating-ai-model-to-its-enterprise-cloud/)
-- [Gemini Code Assist, Google’s AI coding assistant, gets ‘agentic’ abilities](https://techcrunch.com/2025/04/09/gemini-code-assist-googles-ai-coding-assistant-gets-agentic-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
