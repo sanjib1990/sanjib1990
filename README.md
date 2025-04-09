@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilya Sutskever taps Google Cloud to power his AI startup’s research](https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/)
+- [Canoo CEO can buy bankrupt EV startup’s assets, judge rules](https://techcrunch.com/2025/04/09/canoo-ceo-can-buy-bankrupt-ev-startups-assets-judge-rules/)
+- [Court document reveals locations of WhatsApp victims targeted by NSO spyware](https://techcrunch.com/2025/04/09/court-document-reveals-locations-of-whatsapp-victims-targeted-by-nso-spyware/)
 - [More good news for New York startups: Lerer Hippeau raised another $200M](https://techcrunch.com/2025/04/09/more-good-news-for-new-york-startups-lerer-hippeau-raised-another-200m/)
-- [Conservationists raise alarm over Air Force plan to land SpaceX Starships on bird sanctuary atoll](https://www.space.com/space-exploration/launches-spacecraft/conservationists-raise-alarm-over-air-force-plan-to-land-spacex-starships-on-bird-sanctuary-atoll)
 - [Best small telescopes 2025: Portable, lightweight models to travel with](https://www.space.com/stargazing/astronomy-kit/best-small-telescopes)
-- [OpenAI launches program to design new ‘domain-specific’ AI benchmarks](https://techcrunch.com/2025/04/09/openai-launches-program-to-design-new-domain-specific-ai-benchmarks/)
-- [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
