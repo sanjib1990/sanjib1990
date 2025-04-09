@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solve Intelligence raises fresh $12M to bring AI to IP, patent workflows](https://techcrunch.com/2025/04/09/microsoft-backs-solve-intelligence-in-12m-series-a-funding/)
+- [Tessell snags $60M to drive data management at scale](https://techcrunch.com/2025/04/09/tessell-snags-60m-to-drive-data-management-at-scale/)
+- [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/)
+- [Voyager, Sputnik and more: New collectible pins celebrate humanity&#39;s robotic space explorers](https://www.space.com/space-exploration/missions/voyager-sputnik-and-more-new-collectible-pins-celebrate-humanitys-robotic-space-explorers)
 - [How science gets tested on alien worlds: &#39;We quickly realize how much there is yet to discover&#39;](https://www.space.com/the-universe/exoplanets/how-science-gets-tested-on-alien-worlds-we-quickly-realize-how-much-there-is-yet-to-discover)
-- [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/)
-- [Google’s newest Gemini AI model focuses on efficiency](https://techcrunch.com/2025/04/09/googles-newest-gemini-ai-model-focuses-on-efficiency/)
-- [Google Workspace gets automation flows, podcast-style summaries](https://techcrunch.com/2025/04/09/google-workspace-gets-automation-flows-podcast-style-summaries/)
-- [Google’s enterprise cloud gets a music-generating AI model](https://techcrunch.com/2025/04/09/google-brings-a-music-generating-ai-model-to-its-enterprise-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
