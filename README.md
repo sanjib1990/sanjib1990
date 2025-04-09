@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solve Intelligence raises fresh $12M to bring AI to IP, patent workflows](https://techcrunch.com/2025/04/09/microsoft-backs-solve-intelligence-in-12m-series-a-funding/)
-- [Tessell snags $60M to drive data management at scale](https://techcrunch.com/2025/04/09/tessell-snags-60m-to-drive-data-management-at-scale/)
-- [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/)
-- [Voyager, Sputnik and more: New collectible pins celebrate humanity&#39;s robotic space explorers](https://www.space.com/space-exploration/missions/voyager-sputnik-and-more-new-collectible-pins-celebrate-humanitys-robotic-space-explorers)
-- [How science gets tested on alien worlds: &#39;We quickly realize how much there is yet to discover&#39;](https://www.space.com/the-universe/exoplanets/how-science-gets-tested-on-alien-worlds-we-quickly-realize-how-much-there-is-yet-to-discover)
+- [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/)
+- [Lunar Outpost unveils sleek new &#39;Eagle&#39; moon rover &lpar;photos&rpar;](https://www.space.com/space-exploration/moon-rovers/lunar-outpost-unveils-sleek-new-eagle-moon-rover-photos)
+- [Samsung’s SmartThings app gets more home automation capabilities](https://techcrunch.com/2025/04/09/samsung-smartthings-apps-gets-better-routines-and-intercom-feature-with-the-new-update/)
+- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M – and is still hiring humans](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/)
+- [WordPress.com launches a free AI-powered website builder](https://techcrunch.com/2025/04/09/wordpress-com-launches-a-free-ai-powered-website-builder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
