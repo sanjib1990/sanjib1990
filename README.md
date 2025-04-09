@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;We will prioritize sending American astronauts to Mars&#39;: Trump&#39;s pick for NASA chief puts focus on the Red Planet](https://www.space.com/space-exploration/we-will-prioritize-sending-american-astronauts-to-mars-trumps-pick-for-nasa-chief-puts-focus-on-the-red-planet)
-- [The epic total solar eclipse of 2024 caused some birds to stop singing](https://www.space.com/stargazing/eclipses/the-epic-total-solar-eclipse-of-2024-caused-some-birds-to-stop-singing)
-- [Ilya Sutskever taps Google Cloud to power his AI startup’s research](https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/)
-- [Canoo CEO can buy bankrupt EV startup’s assets, judge rules](https://techcrunch.com/2025/04/09/canoo-ceo-can-buy-bankrupt-ev-startups-assets-judge-rules/)
-- [Court document reveals locations of WhatsApp victims targeted by NSO spyware](https://techcrunch.com/2025/04/09/court-document-reveals-locations-of-whatsapp-victims-targeted-by-nso-spyware/)
+- [Nvidia’s H20 AI chips may be spared from export controls — for now](https://techcrunch.com/2025/04/09/nvidias-h20-ai-chips-may-be-spared-from-export-controls-for-now/)
+- [Threads is testing a feature that lets you follow the same creators you follow on X](https://techcrunch.com/2025/04/09/threads-is-testing-a-feature-that-lets-you-follow-the-same-creators-you-follow-on-x/)
+- [Keeping space safe is the &#39;ultimate team sport&#39;, and the US Space Force has a new playbook](https://www.space.com/space-exploration/launches-spacecraft/keeping-space-safe-is-the-ultimate-team-sport-and-the-us-space-force-has-a-new-playbook)
+- [China and Pakistan agree to fly 1st foreign astronaut to Chinese space station](https://www.space.com/space-exploration/human-spaceflight/china-and-pakistan-agree-to-fly-1st-foreign-astronaut-to-chinese-space-station)
+- [Trump&#39;s pick for NASA chief tells Senate he&#39;s aiming for the Red Planet. &#39;We will prioritize sending American astronauts to Mars&#39;](https://www.space.com/space-exploration/we-will-prioritize-sending-american-astronauts-to-mars-trumps-pick-for-nasa-chief-puts-focus-on-the-red-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
