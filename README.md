@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearby exoplanet could offer clues about atmospheres around hot, rocky alien worlds](https://www.space.com/the-universe/exoplanets/nearby-exoplanet-could-offer-clues-about-atmospheres-around-hot-rocky-alien-worlds)
-- [Capture the Lyrid meteor shower with our best camera for astrophotography, now $600 cheaper](https://www.space.com/stargazing/astrophotography/capture-the-lyrid-meteor-shower-with-our-best-camera-for-astrophotography-now-usd600-cheaper)
-- [US may fine TSMC $1B over chip allegedly used in Huawei AI processor](https://techcrunch.com/2025/04/09/us-may-fine-tsmc-1b-over-chip-allegedly-used-in-huawei-ai-processor/)
-- [&#39;Predator: Badlands&#39; trailer unveiled at CinemaCon shows the hunter becoming the hunted, but the rest of us will have to wait to see it](https://www.space.com/entertainment/space-movies-shows/predator-badlands-trailer-shown-at-cinemacon-shows-the-hunter-becoming-the-hunted-but-the-rest-of-us-will-have-to-wait-to-see-it)
-- [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/)
+- [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/)
+- [Kalshi CEO: ‘State law doesn’t really apply’ to us](https://techcrunch.com/2025/04/09/kalshi-ceo-state-law-doesnt-really-apply-to-us/)
+- [MIT study finds that AI doesn’t, in fact, have values](https://techcrunch.com/2025/04/09/mit-study-finds-that-ai-doesnt-in-fact-have-values/)
+- [YouTube expands its ‘likeness’ detection technology, which detects AI fakes, to a handful of top creators](https://techcrunch.com/2025/04/09/youtube-expands-its-likeness-detection-technology-which-detects-ai-fakes-to-a-handful-of-top-creators/)
+- [That&#39;s no space station, it&#39;s a student-led drone show: Space photo of the day](https://www.space.com/entertainment/thats-no-space-station-its-a-student-led-drone-show-space-photo-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
