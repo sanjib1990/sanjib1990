@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lyst, the fashion marketplace once valued at $700M, sells to Japan’s Zozo for $154M](https://techcrunch.com/2025/04/09/lyst-the-fashion-marketplace-once-valued-at-700m-sells-to-japans-zozo-for-154m/)
-- [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/)
-- [Watch Atlas V rocket launch 1st big batch of Amazon&#39;s Project Kuiper internet satellites today](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-launch-first-batch-amazon-project-kuiper-internet-satellites-webcast)
-- [Newly discovered comet SWAN25F captured in stunning photo blazing across UK skies](https://www.space.com/new-comet-swan25f-photo-josh-dury-uk-skies)
-- [How Trump&#39;s tariffs could shake up the global space industry](https://www.space.com/space-exploration/how-trumps-tariffs-could-shake-up-the-global-space-industry)
+- [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/)
+- [Google’s newest Gemini AI model focuses on efficiency](https://techcrunch.com/2025/04/09/googles-newest-gemini-ai-model-focuses-on-efficiency/)
+- [Google Workspace gets automation flows, podcast-style summaries](https://techcrunch.com/2025/04/09/google-workspace-gets-automation-flows-podcast-style-summaries/)
+- [Google’s enterprise cloud gets a music-generating AI model](https://techcrunch.com/2025/04/09/google-brings-a-music-generating-ai-model-to-its-enterprise-cloud/)
+- [Gemini Code Assist, Google’s AI coding assistant, gets ‘agentic’ abilities](https://techcrunch.com/2025/04/09/gemini-code-assist-googles-ai-coding-assistant-gets-agentic-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
