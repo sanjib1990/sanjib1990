@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why LLMs get dumb &lpar;Context Windows Explained&rpar;](https://www.youtube.com/watch?v=TeQDr4DkLYo)
 - [we finally organized our Tech Junk Drawer](https://www.youtube.com/watch?v=ZWPh6c8Gqg8)
 - [Reputation Lag Attack - Computerphile](https://www.youtube.com/watch?v=R8MI8vsrFiQ)
 - [Meta’s Llama 4 is mindblowing… but did it cheat?](https://www.youtube.com/watch?v=P4M9wfJH-yI)
 - [13 Linux Commands Every Engineer Should Know &lpar;Real-World Example&rpar;](https://www.youtube.com/watch?v=CLh2ACdXNbc)
-- [everyone is putting AI in schools......](https://www.youtube.com/watch?v=cJZnlnT0rPA)
 <!-- YOUTUBE:END -->
 
 ---
