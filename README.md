@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearby exoplanet could offer clues about atmospheres around hot, rocky alien worlds](https://www.space.com/the-universe/exoplanets/nearby-exoplanet-could-offer-clues-about-atmospheres-around-hot-rocky-alien-worlds)
+- [Capture the Lyrid meteor shower with our best camera for astrophotography, now $600 cheaper](https://www.space.com/stargazing/astrophotography/capture-the-lyrid-meteor-shower-with-our-best-camera-for-astrophotography-now-usd600-cheaper)
+- [US may fine TSMC $1B over chip allegedly used in Huawei AI processor](https://techcrunch.com/2025/04/09/us-may-fine-tsmc-1b-over-chip-allegedly-used-in-huawei-ai-processor/)
+- [&#39;Predator: Badlands&#39; trailer unveiled at CinemaCon shows the hunter becoming the hunted, but the rest of us will have to wait to see it](https://www.space.com/entertainment/space-movies-shows/predator-badlands-trailer-shown-at-cinemacon-shows-the-hunter-becoming-the-hunted-but-the-rest-of-us-will-have-to-wait-to-see-it)
 - [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/)
-- [Lunar Outpost unveils sleek new &#39;Eagle&#39; moon rover &lpar;photos&rpar;](https://www.space.com/space-exploration/moon-rovers/lunar-outpost-unveils-sleek-new-eagle-moon-rover-photos)
-- [Samsung’s SmartThings app gets more home automation capabilities](https://techcrunch.com/2025/04/09/samsung-smartthings-apps-gets-better-routines-and-intercom-feature-with-the-new-update/)
-- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M – and is still hiring humans](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/)
-- [WordPress.com launches a free AI-powered website builder](https://techcrunch.com/2025/04/09/wordpress-com-launches-a-free-ai-powered-website-builder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
