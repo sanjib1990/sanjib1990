@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Drafted uses AI and video resumes to help early-career professionals land jobs](https://techcrunch.com/2025/04/10/drafted-uses-ai-and-video-resumes-to-help-early-career-professionals-land-jobs/)
-- [Meet the crew for Blue Origin&#39;s upcoming all-female spaceflight with Katy Perry](https://www.space.com/space-exploration/private-spaceflight/meet-the-crew-for-blue-origins-upcoming-all-female-spaceflight-with-katy-perry)
-- [Watch senator grill Jared Isaacman, Trump&#39;s pick for NASA chief, about Elon Musk&#39;s involvement in his job interview &lpar;video&rpar;](https://www.space.com/space-exploration/watch-senator-grill-jared-isaacman-trumps-pick-for-nasa-chief-about-elon-musks-involvement-in-his-job-interview-video)
-- [AI insurtech Ominimo bags its first investment at a $220M valuation](https://techcrunch.com/2025/04/10/ai-insurtech-ominimo-bags-its-first-investment-at-a-220m-valuation/)
-- [Trump administration&#39;s NOAA layoffs affected the space weather service that tracks solar storms](https://www.space.com/the-universe/earth/trump-administrations-noaa-layoffs-affected-the-space-weather-service-that-tracks-solar-storms)
+- [NASA&#39;s Deep Space Network is getting a new dish to help distant spacecraft phone home](https://www.space.com/the-universe/nasas-deep-space-network-is-getting-a-new-dish-to-help-distant-spacecraft-phone-home)
+- [Canoo CEO can buy bankrupt EV startup’s assets, judge rules](https://techcrunch.com/2025/04/10/canoo-ceo-can-buy-bankrupt-ev-startups-assets-judge-rules/)
+- [Incident.io raises $62M at a $400M valuation to help IT teams move fast when things break](https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/)
+- [Trump orders federal investigation into former CISA director Chris Krebs](https://techcrunch.com/2025/04/10/trump-orders-federal-investigation-into-former-cisa-director-chris-krebs/)
+- [The rise of AI ‘reasoning’ models is making benchmarking more expensive](https://techcrunch.com/2025/04/10/the-rise-of-ai-reasoning-models-is-making-benchmarking-more-expensive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
