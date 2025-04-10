@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe CEO says he ensures his top leaders interview a customer twice a month](https://techcrunch.com/2025/04/10/stripe-ceo-says-he-ensures-his-top-leaders-interview-a-customer-twice-a-month/)
 - [How Chef Robotics found success  by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/)
 - [China to 3D-print bricks on the moon using lunar dirt in 2028 to pave way for future base &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/china-to-3d-print-bricks-on-the-moon-using-lunar-dirt-in-2028-to-pave-way-for-future-base-video)
 - [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
 - [Yahoo removes DEI pages from its website](https://techcrunch.com/2025/04/10/yahoo-removes-dei-pages-from-its-website/)
-- [DeepMind CEO Demis Hassabis says Google will eventually combine its Gemini and Veo AI models](https://techcrunch.com/2025/04/10/deepmind-ceo-demis-hassabis-says-google-will-eventually-combine-its-gemini-and-veo-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
