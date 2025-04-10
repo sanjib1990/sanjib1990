@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon CEO Andy Jassy urges companies to invest heavily in AI](https://techcrunch.com/2025/04/10/amazon-ceo-andy-jassy-urges-companies-to-invest-heavily-in-ai/)
+- [Rebooted Digg launches early-access community with $5 fee](https://techcrunch.com/2025/04/10/rebooted-digg-launches-early-access-community-with-5-fee/)
+- [Google thinks AI can untangle the electrical grid’s bureaucracy](https://techcrunch.com/2025/04/10/google-thinks-ai-can-untangle-the-electrical-grids-bureaucracy/)
+- [NHTSA’s self-driving safety staff reportedly ‘disproportionally affected’ by DOGE cuts](https://techcrunch.com/2025/04/10/nhtsas-self-driving-safety-staff-reportedly-disproportionally-affected-by-doge-cuts/)
 - [WhatsApp introduces new features across chats, calls, and channels](https://techcrunch.com/2025/04/10/whatsapp-introduces-new-features-across-chats-calls-and-channels/)
-- [Watch Predators take on samurai, ninjas and WWII pilots in the trailer for &#39;Predator: Killer of Killers&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/watch-predators-take-on-samurai-ninjas-and-wwii-pilots-in-the-trailer-for-predator-killer-of-killers-video)
-- [Roving past ‘Devil&#39;s Gate&#39; on Mars: Space picture of the day](https://www.space.com/space-exploration/mars-rovers/roving-past-devils-gate-on-mars-space-picture-of-the-day)
-- [Inventex founder, an engineer for Coinbase at 14, wants to revolutionize patent applications](https://techcrunch.com/2025/04/10/inventex-founder-an-engineer-for-coinbase-at-14-wants-to-revolutionize-patent-applications/)
-- [Polestar EV sales jump in Q1 on discounts like its ‘Tesla conquest’ bonus](https://techcrunch.com/2025/04/10/polestar-ev-sales-jump-in-q1-on-discounts-like-tesla-conquest-bonus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
