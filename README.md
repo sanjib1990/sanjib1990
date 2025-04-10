@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Deep Space Network is getting a new dish to help distant spacecraft phone home](https://www.space.com/the-universe/nasas-deep-space-network-is-getting-a-new-dish-to-help-distant-spacecraft-phone-home)
-- [Canoo CEO can buy bankrupt EV startup’s assets, judge rules](https://techcrunch.com/2025/04/10/canoo-ceo-can-buy-bankrupt-ev-startups-assets-judge-rules/)
-- [Incident.io raises $62M at a $400M valuation to help IT teams move fast when things break](https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/)
-- [Trump orders federal investigation into former CISA director Chris Krebs](https://techcrunch.com/2025/04/10/trump-orders-federal-investigation-into-former-cisa-director-chris-krebs/)
-- [The rise of AI ‘reasoning’ models is making benchmarking more expensive](https://techcrunch.com/2025/04/10/the-rise-of-ai-reasoning-models-is-making-benchmarking-more-expensive/)
+- [WhatsApp introduces new features across chats, calls, and channels](https://techcrunch.com/2025/04/10/whatsapp-introduces-new-features-across-chats-calls-and-channels/)
+- [Watch Predators take on samurai, ninjas and WWII pilots in the trailer for &#39;Predator: Killer of Killers&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/watch-predators-take-on-samurai-ninjas-and-wwii-pilots-in-the-trailer-for-predator-killer-of-killers-video)
+- [Roving past ‘Devil&#39;s Gate&#39; on Mars: Space picture of the day](https://www.space.com/space-exploration/mars-rovers/roving-past-devils-gate-on-mars-space-picture-of-the-day)
+- [Inventex founder, an engineer for Coinbase at 14, wants to revolutionize patent applications](https://techcrunch.com/2025/04/10/inventex-founder-an-engineer-for-coinbase-at-14-wants-to-revolutionize-patent-applications/)
+- [Polestar EV sales jump in Q1 on discounts like its ‘Tesla conquest’ bonus](https://techcrunch.com/2025/04/10/polestar-ev-sales-jump-in-q1-on-discounts-like-tesla-conquest-bonus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
