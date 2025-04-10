@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A fresh $100M rolls into DIG Ventures as it bids to woo early-stage European startups](https://techcrunch.com/2025/04/09/a-fresh-100m-rolls-into-dig-ventures-as-it-bids-to-woo-early-stage-european-startups/)
+- [Elon Musk’s AI company, xAI, launches an API for Grok 3](https://techcrunch.com/2025/04/09/elon-musks-ai-company-xai-launches-an-api-for-grok-3/)
 - [Wayve’s self-driving tech is headed to Nissan vehicles](https://techcrunch.com/2025/04/09/wayves-self-driving-tech-is-headed-to-nissan-vehicles/)
 - [Launch of Amazon&#39;s 1st Kuiper internet satellites delayed by bad weather](https://www.space.com/space-exploration/launches-spacecraft/amazon-kuiper-internet-satellites-launch-ula-atlas-v-rocket-delayed)
 - [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/)
-- [Google says it’ll embrace Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
-- [Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
