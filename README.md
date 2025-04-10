@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI insurtech Ominimo bags its first investment at a $220M valuation](https://techcrunch.com/2025/04/10/ai-insurtech-ominimo-bags-its-first-investment-at-a-220m-valuation/)
 - [Trump administration&#39;s NOAA layoffs affected the space weather service that tracks solar storms](https://www.space.com/the-universe/earth/trump-administrations-noaa-layoffs-affected-the-space-weather-service-that-tracks-solar-storms)
 - [April&#39;s Full Pink Moon will rise as a &#39;micromoon&#39; this weekend — what to expect from the smallest full moon of 2025](https://www.space.com/april-full-moon-2025-rises-what-to-expect)
-- [Revent rocks the boat with a fresh $100M to invest in people and the planet](https://techcrunch.com/2025/04/10/revent-rocks-the-boat-with-a-fresh-100m-to-invest-in-people-and-the-planet/)
+- [Revent rocks the boat with $100M fund to invest in people and the planet](https://techcrunch.com/2025/04/10/revent-rocks-the-boat-with-a-fresh-100m-to-invest-in-people-and-the-planet/)
 - [A fresh $100M rolls into DIG Ventures as it bids to woo early-stage European startups](https://techcrunch.com/2025/04/09/a-fresh-100m-rolls-into-dig-ventures-as-it-bids-to-woo-early-stage-european-startups/)
-- [Elon Musk’s AI company, xAI, launches an API for Grok 3](https://techcrunch.com/2025/04/09/elon-musks-ai-company-xai-launches-an-api-for-grok-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
