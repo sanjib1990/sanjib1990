@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump administration&#39;s NOAA layoffs affected the space weather service that tracks solar storms](https://www.space.com/the-universe/earth/trump-administrations-noaa-layoffs-affected-the-space-weather-service-that-tracks-solar-storms)
+- [April&#39;s Full Pink Moon will rise as a &#39;micromoon&#39; this weekend — what to expect from the smallest full moon of 2025](https://www.space.com/april-full-moon-2025-rises-what-to-expect)
 - [Revent rocks the boat with a fresh $100M to invest in people and the planet](https://techcrunch.com/2025/04/10/revent-rocks-the-boat-with-a-fresh-100m-to-invest-in-people-and-the-planet/)
 - [A fresh $100M rolls into DIG Ventures as it bids to woo early-stage European startups](https://techcrunch.com/2025/04/09/a-fresh-100m-rolls-into-dig-ventures-as-it-bids-to-woo-early-stage-european-startups/)
 - [Elon Musk’s AI company, xAI, launches an API for Grok 3](https://techcrunch.com/2025/04/09/elon-musks-ai-company-xai-launches-an-api-for-grok-3/)
-- [Wayve’s self-driving tech is headed to Nissan vehicles](https://techcrunch.com/2025/04/09/wayves-self-driving-tech-is-headed-to-nissan-vehicles/)
-- [Launch of Amazon&#39;s 1st Kuiper internet satellites delayed by bad weather](https://www.space.com/space-exploration/launches-spacecraft/amazon-kuiper-internet-satellites-launch-ula-atlas-v-rocket-delayed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
