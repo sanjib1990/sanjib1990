@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon CEO Andy Jassy urges companies to invest heavily in AI](https://techcrunch.com/2025/04/10/amazon-ceo-andy-jassy-urges-companies-to-invest-heavily-in-ai/)
-- [Rebooted Digg launches early-access community with $5 fee](https://techcrunch.com/2025/04/10/rebooted-digg-launches-early-access-community-with-5-fee/)
-- [Google thinks AI can untangle the electrical grid’s bureaucracy](https://techcrunch.com/2025/04/10/google-thinks-ai-can-untangle-the-electrical-grids-bureaucracy/)
-- [NHTSA’s self-driving safety staff reportedly ‘disproportionally affected’ by DOGE cuts](https://techcrunch.com/2025/04/10/nhtsas-self-driving-safety-staff-reportedly-disproportionally-affected-by-doge-cuts/)
-- [WhatsApp introduces new features across chats, calls, and channels](https://techcrunch.com/2025/04/10/whatsapp-introduces-new-features-across-chats-calls-and-channels/)
+- [Netflix’s latest season of ‘Black Mirror’ comes with a mobile game](https://techcrunch.com/2025/04/10/netflixs-latest-season-of-black-mirror-comes-with-a-mobile-game/)
+- [Jobandtalent raises $103M on a down-round $1.5B valuation as it looks to AI to recruit temps](https://techcrunch.com/2025/04/10/jobandtalent-raises-103m-on-a-down-round-1-5b-valuation-as-it-looks-to-ai-to-recruit-temps/)
+- [LiveKit’s tools power real-time communications, including OpenAI’s Voice Mode](https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/)
+- [Canva is getting AI image generation, interactive coding, spreadsheets and more](https://techcrunch.com/2025/04/10/canva-is-adding-an-ai-assistant-coding-and-sheets-to-its-platform/)
+- [OpenAI updates ChatGPT to reference your past chats](https://techcrunch.com/2025/04/10/openai-updates-chatgpt-to-reference-your-other-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
