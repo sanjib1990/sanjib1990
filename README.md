@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayve’s self-driving tech is headed to Nissan vehicles](https://techcrunch.com/2025/04/09/wayves-self-driving-tech-is-headed-to-nissan-vehicles/)
+- [Launch of Amazon&#39;s 1st Kuiper internet satellites delayed by bad weather](https://www.space.com/space-exploration/launches-spacecraft/amazon-kuiper-internet-satellites-launch-ula-atlas-v-rocket-delayed)
 - [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/)
 - [Google says it’ll embrace Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
 - [Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/)
-- [OpenAI counter-sues, calls for Musk to be enjoined from ‘further unlawful and unfair action’](https://techcrunch.com/2025/04/09/openai-attorneys-call-for-musk-to-be-enjoined-from-further-unlawful-and-unfair-action/)
-- [a16z backs Base Power in $200M round for home backup batteries](https://techcrunch.com/2025/04/09/a16z-backs-base-power-in-200m-round-for-home-backup-batteries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
