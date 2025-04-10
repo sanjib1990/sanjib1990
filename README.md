@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Telescope snaps 1st images of clashing star clusters at the hearts of dwarf galaxies](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-snaps-1st-images-of-clashing-star-clusters-at-the-hearts-of-dwarf-galaxies)
-- [Mira Murati’s AI startup is reportedly aiming for a massive $2B seed round](https://techcrunch.com/2025/04/10/mira-muratis-ai-startup-is-reportedly-aiming-for-a-massive-2b-seed-round/)
-- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2025/04/10/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-- [AI models still struggle to debug software, Microsoft study shows](https://techcrunch.com/2025/04/10/ai-models-still-struggle-to-debug-software-microsoft-study-shows/)
-- [BeReal, which says it has 40M monthly users, is rolling out ads in the US](https://techcrunch.com/2025/04/10/bereal-which-says-it-has-40m-monthly-users-is-rolling-out-ads-in-the-u-s/)
+- [&#39;Love, Death + Robots&#39; Season 4 teaser is a maelstrom of explosions, aliens, dinosaurs, and... well robots &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/love-death-robots-season-4-teaser-is-a-maelstrom-of-explosions-aliens-dinosaurs-and-well-robots-video)
+- [NASA&#39;s Juno probe at Jupiter hits &#39;safe mode&#39; glitch, but bounces back just fine](https://www.space.com/space-exploration/juno/nasas-juno-probe-at-jupiter-hits-safe-mode-glitch-but-bounces-back-just-fine)
+- [Cofertility lets women freeze their eggs for free through its donor-matching program](https://techcrunch.com/2025/04/10/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/)
+- [See gorgeous green auroras dance over Earth in dazzling ISS astronaut video](https://www.space.com/space-exploration/international-space-station/see-gorgeous-green-auroras-dance-over-earth-in-dazzling-iss-astronaut-video)
+- [This star burped after eating a planet — but the planet was really asking for it](https://www.space.com/space-exploration/james-webb-space-telescope/this-star-burped-after-eating-a-planet-but-the-planet-was-really-asking-for-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
