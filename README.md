@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bezos-backed EV startup Slate Auto’s pickup truck spotted in the wild](https://techcrunch.com/2025/04/10/bezos-backed-ev-startup-slate-autos-pickup-truck-spotted-in-the-wild/)
+- [&#39;Murderbot&#39; declares &#39;humans are idiots&#39; in 1st tantalizing trailer for Apple TV&#39;s upcoming sci-fi series](https://www.space.com/entertainment/murderbot-declares-that-humans-are-idiots-in-first-tantalizing-trailer-for-apple-tv-s-upcoming-sci-fi-series)
+- [The US Secretary of Education referred to AI as ‘A1,’ like the steak sauce](https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/)
 - [Netflix’s latest season of ‘Black Mirror’ comes with a mobile game](https://techcrunch.com/2025/04/10/netflixs-latest-season-of-black-mirror-comes-with-a-mobile-game/)
 - [Jobandtalent raises $103M on a down-round $1.5B valuation as it looks to AI to recruit temps](https://techcrunch.com/2025/04/10/jobandtalent-raises-103m-on-a-down-round-1-5b-valuation-as-it-looks-to-ai-to-recruit-temps/)
-- [LiveKit’s tools power real-time communications, including OpenAI’s Voice Mode](https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/)
-- [Canva is getting AI image generation, interactive coding, spreadsheets and more](https://techcrunch.com/2025/04/10/canva-is-adding-an-ai-assistant-coding-and-sheets-to-its-platform/)
-- [OpenAI updates ChatGPT to reference your past chats](https://techcrunch.com/2025/04/10/openai-updates-chatgpt-to-reference-your-other-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
