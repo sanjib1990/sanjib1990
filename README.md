@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BeReal, which says it has 40M monthly users, is rolling out ads in the U.S.](https://techcrunch.com/2025/04/10/bereal-which-says-it-has-40m-monthly-users-is-rolling-out-ads-in-the-u-s/)
-- [Bluesky’s latest update adds chat reactions and an Explore page, similar to X](https://techcrunch.com/2025/04/10/blueskys-latest-update-adds-chat-reactions-and-an-explore-page-similar-to-x/)
-- [Bezos-backed EV startup Slate Auto’s pickup truck spotted in the wild](https://techcrunch.com/2025/04/10/bezos-backed-ev-startup-slate-autos-pickup-truck-spotted-in-the-wild/)
-- [&#39;Murderbot&#39; declares &#39;humans are idiots&#39; in 1st tantalizing trailer for Apple TV&#39;s upcoming sci-fi series](https://www.space.com/entertainment/murderbot-declares-that-humans-are-idiots-in-first-tantalizing-trailer-for-apple-tv-s-upcoming-sci-fi-series)
-- [The US Secretary of Education referred to AI as ‘A1,’ like the steak sauce](https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/)
+- [Hubble Telescope snaps 1st images of clashing star clusters at the hearts of dwarf galaxies](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-snaps-1st-images-of-clashing-star-clusters-at-the-hearts-of-dwarf-galaxies)
+- [Mira Murati’s AI startup is reportedly aiming for a massive $2B seed round](https://techcrunch.com/2025/04/10/mira-muratis-ai-startup-is-reportedly-aiming-for-a-massive-2b-seed-round/)
+- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2025/04/10/what-is-bluesky-everything-to-know-about-the-x-competitor/)
+- [AI models still struggle to debug software, Microsoft study shows](https://techcrunch.com/2025/04/10/ai-models-still-struggle-to-debug-software-microsoft-study-shows/)
+- [BeReal, which says it has 40M monthly users, is rolling out ads in the US](https://techcrunch.com/2025/04/10/bereal-which-says-it-has-40m-monthly-users-is-rolling-out-ads-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
