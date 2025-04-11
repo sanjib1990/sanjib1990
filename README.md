@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/)
+- [Microsoft inks massive carbon removal deal powered by a paper mill](https://techcrunch.com/2025/04/11/microsoft-inks-massive-carbon-removal-deal-thats-powered-by-a-paper-mill/)
 - [NASA spacecraft spots monster black hole bursting with X-rays &#39;releasing a hundred times more energy than we have seen elsewhere&#39;](https://www.space.com/the-universe/black-holes/nasa-spacecraft-spots-monster-black-hole-bursting-with-x-rays-releasing-a-hundred-times-more-energy-than-we-have-seen-elsewhere)
 - [Save a massive 30% on the Celestron StarSense Explorer LT 80AZ, a top-tier beginner telescope](https://www.space.com/stargazing/save-a-massive-30-on-the-celestron-starsense-explorer-lt-80az-a-top-tier-beginner-telescope)
 - [Leaders from Accel and Paladin Capital Group join the stage at StrictlyVC London in May](https://techcrunch.com/2025/04/11/leaders-from-accel-and-paladin-capital-group-join-the-stage-at-strictlyvc-london-in-may/)
-- [Lucid Motors wins bankruptcy auction for Nikola’s Arizona factory and other assets](https://techcrunch.com/2025/04/10/lucid-motors-wins-bankruptcy-auction-for-nikolas-arizona-factory-and-other-assets/)
-- [Blue Origin’s all-female spaceflight urges women to shoot for the stars — but astronaut memoirs reveal the cost of being exceptional](https://www.space.com/space-exploration/private-spaceflight/blue-origins-all-female-spaceflight-urges-women-to-shoot-for-the-stars-but-astronaut-memoirs-reveal-the-cost-of-being-exceptional)
 <!-- BLOG-POST-LIST:END -->
 
 ---
