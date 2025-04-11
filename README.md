@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT became the most downloaded app globally in March](https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/)
+- [Private probe will refuel Space Force satellites high above Earth on landmark 2026 mission](https://www.space.com/space-exploration/satellites/private-probe-will-refuel-space-force-satellites-high-above-earth-on-landmark-2026-mission)
+- [How to watch &#39;Doctor Who&#39; season 2 online and from anywhere](https://www.space.com/entertainment/space-movies-shows/watch-doctor-who-season-2-online-from-anywhere)
+- [YouTube considers a daily timer for users looking to cut back on Shorts](https://techcrunch.com/2025/04/11/youtube-considers-a-daily-timer-for-users-looking-to-cut-back-on-shorts/)
 - [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/)
-- [Ireland’s data regulator investigates X’s use of European user data to train Grok](https://techcrunch.com/2025/04/11/irelands-data-regulator-investigates-xs-use-of-european-user-data-to-train-grok/)
-- [Parallel Systems is building autonomous electric rail for short-distance freight](https://techcrunch.com/2025/04/11/parallel-systems-is-building-autonomous-electric-rail-for-short-distance-freight/)
-- [A gravitational war next door: The Large Magellanic Cloud is gradually destroying the Small Magellanic Cloud](https://www.space.com/the-universe/a-gravitational-war-next-door-the-large-magellanic-cloud-is-gradually-destroying-the-small-magellanic-cloud)
-- [Hacked documents reveal guide to serving Elon Musk on private jets](https://techcrunch.com/2025/04/11/hacked-documents-reveal-guide-to-serving-elon-musk-on-private-jets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
