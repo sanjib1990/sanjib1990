@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/)
+- [Ireland’s data regulator investigates X’s use of European user data to train Grok](https://techcrunch.com/2025/04/11/irelands-data-regulator-investigates-xs-use-of-european-user-data-to-train-grok/)
 - [Parallel Systems is building autonomous electric rail for short-distance freight](https://techcrunch.com/2025/04/11/parallel-systems-is-building-autonomous-electric-rail-for-short-distance-freight/)
 - [A gravitational war next door: The Large Magellanic Cloud is gradually destroying the Small Magellanic Cloud](https://www.space.com/the-universe/a-gravitational-war-next-door-the-large-magellanic-cloud-is-gradually-destroying-the-small-magellanic-cloud)
 - [Hacked documents reveal guide to serving Elon Musk on private jets](https://techcrunch.com/2025/04/11/hacked-documents-reveal-guide-to-serving-elon-musk-on-private-jets/)
-- [Why Nest co-founder Matt Rogers is still bullish on HVAC](https://techcrunch.com/2025/04/11/why-nest-co-founder-matt-rogers-is-still-bullish-on-hvac/)
-- [Spotify invests over $1M to grow its catalog of non-English audiobooks](https://techcrunch.com/2025/04/11/spotify-invests-over-1m-to-grow-its-catalog-of-non-english-audiobooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
