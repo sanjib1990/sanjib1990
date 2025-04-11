@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The newest GOES weather satellite in NOAA&#39;s fleet is now fully operational &lpar;video&rpar;](https://www.space.com/the-universe/earth/newest-us-goes-weather-satellite-fully-operational-video)
+- [Meta’s vanilla Maverick AI model ranks below rivals on a popular chat benchmark](https://techcrunch.com/2025/04/11/metas-vanilla-maverick-ai-model-ranks-below-rivals-on-a-popular-chat-benchmark/)
+- [Auroras could spice up April&#39;s Full Pink &#39;micromoon&#39; this weekend](https://www.space.com/stargazing/aurora-borealis/auroras-could-spice-up-april-full-pink-micromoon-this-weekend-2025)
 - [Trump administration could slash NASA science budget by 50%, reports suggest](https://www.space.com/space-exploration/trump-administration-could-slash-nasa-science-budget-by-50-percent-reports-suggest)
 - [The most interesting startups showcased at Google Cloud Next](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/)
-- [Meta adds Stripe CEO Patrick Collison and Dina Powell McCormick to its board](https://techcrunch.com/2025/04/11/meta-adds-stripe-ceo-patrick-collison-and-dina-powell-mccormick-to-its-board/)
-- [Law professors side with authors battling Meta in AI copyright case](https://techcrunch.com/2025/04/11/law-professors-side-with-authors-battling-meta-in-ai-copyright-case/)
-- [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
