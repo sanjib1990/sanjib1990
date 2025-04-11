@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Law professors side with authors battling Meta in AI copyright case](https://techcrunch.com/2025/04/11/law-professors-side-with-authors-battling-meta-in-ai-copyright-case/)
 - [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/)
 - [Elon Musk&#39;s DOGE team given &#39;alarming degree&#39; of access to NASA systems, House Democrats say](https://www.space.com/the-universe/earth/elon-musks-doge-team-given-alarming-degree-of-access-to-nasa-systems-house-democrats-say)
 - [The Fantastic Four suit up in awesome spacesuits in this sneak peek at &#39;The Fantastic Four: First Steps&#39;](https://www.space.com/entertainment/fantastic-four-suits-up-in-awesome-spacesuits-in-sneak-peek-of-the-fantastic-four-first-steps)
 - [TechCrunch Mobility: Jeff Bezos backs a secretive EV startup and Lucid snaps up Nikola’s assets](https://techcrunch.com/2025/04/11/techcrunch-mobility-jeff-bezos-backs-a-secretive-ev-startup-and-lucid-snaps-up-nikolas-assets/)
-- [Nikola founder Trevor Milton accused of trying to derail bankruptcy case](https://techcrunch.com/2025/04/11/nikola-founder-trevor-milton-accused-of-trying-to-derail-bankruptcy-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
