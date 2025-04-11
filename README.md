@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The Empire can not win&quot; — A pair of explosive &#39;Andor&#39; Season 2 teasers drop ahead of April 22 release &lpar;video&rpar;](https://www.space.com/entertainment/the-empire-can-not-win-a-pair-of-explosive-andor-season-2-teasers-drop-ahead-of-april-22-release-video)
-- [Blue Water Autonomy comes out of stealth promising autonomous naval ships](https://techcrunch.com/2025/04/11/blue-water-autonomy-comes-out-of-stealth-promising-autonomous-naval-ships/)
-- [Ex-OpenAI staffers file amicus brief opposing the company’s for-profit transition](https://techcrunch.com/2025/04/11/ex-openai-staff-file-amicus-brief-opposing-the-companys-for-profit-transition/)
-- [GM cuts 500 jobs because of weak demand for BrightDrop electric vans](https://techcrunch.com/2025/04/11/gm-cuts-500-jobs-because-of-weak-demand-for-brightdrop-electric-vans/)
-- [ChatGPT became the most downloaded app globally in March](https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/)
+- [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/)
+- [Elon Musk&#39;s DOGE team given &#39;alarming degree&#39; of access to NASA systems, House Democrats say](https://www.space.com/the-universe/earth/elon-musks-doge-team-given-alarming-degree-of-access-to-nasa-systems-house-democrats-say)
+- [The Fantastic Four suit up in awesome spacesuits in this sneak peek at &#39;The Fantastic Four: First Steps&#39;](https://www.space.com/entertainment/fantastic-four-suits-up-in-awesome-spacesuits-in-sneak-peek-of-the-fantastic-four-first-steps)
+- [TechCrunch Mobility: Jeff Bezos backs a secretive EV startup and Lucid snaps up Nikola’s assets](https://techcrunch.com/2025/04/11/techcrunch-mobility-jeff-bezos-backs-a-secretive-ev-startup-and-lucid-snaps-up-nikolas-assets/)
+- [Nikola founder Trevor Milton accused of trying to derail bankruptcy case](https://techcrunch.com/2025/04/11/nikola-founder-trevor-milton-accused-of-trying-to-derail-bankruptcy-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
