@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/)
+- [What to expect from the newfound Comet Swan: An observer&#39;s guide](https://www.space.com/the-universe/comets/what-to-expect-from-the-newfound-comet-swan-an-observers-guide)
+- [Texas senators: Move space shuttle Discovery from Smithsonian to Houston](https://www.space.com/space-exploration/space-shuttle/texas-senators-move-space-shuttle-discovery-from-smithsonian-to-houston)
 - [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/)
 - [Microsoft inks massive carbon removal deal powered by a paper mill](https://techcrunch.com/2025/04/11/microsoft-inks-massive-carbon-removal-deal-thats-powered-by-a-paper-mill/)
-- [NASA spacecraft spots monster black hole bursting with X-rays &#39;releasing a hundred times more energy than we have seen elsewhere&#39;](https://www.space.com/the-universe/black-holes/nasa-spacecraft-spots-monster-black-hole-bursting-with-x-rays-releasing-a-hundred-times-more-energy-than-we-have-seen-elsewhere)
-- [Save a massive 30% on the Celestron StarSense Explorer LT 80AZ, a top-tier beginner telescope](https://www.space.com/stargazing/save-a-massive-30-on-the-celestron-starsense-explorer-lt-80az-a-top-tier-beginner-telescope)
-- [Leaders from Accel and Paladin Capital Group join the stage at StrictlyVC London in May](https://techcrunch.com/2025/04/11/leaders-from-accel-and-paladin-capital-group-join-the-stage-at-strictlyvc-london-in-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
