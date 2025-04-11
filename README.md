@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The Empire can not win&quot; — A pair of explosive &#39;Andor&#39; Season 2 teasers drop ahead of April 22 release &lpar;video&rpar;](https://www.space.com/entertainment/the-empire-can-not-win-a-pair-of-explosive-andor-season-2-teasers-drop-ahead-of-april-22-release-video)
+- [Blue Water Autonomy comes out of stealth promising autonomous naval ships](https://techcrunch.com/2025/04/11/blue-water-autonomy-comes-out-of-stealth-promising-autonomous-naval-ships/)
+- [Ex-OpenAI staffers file amicus brief opposing the company’s for-profit transition](https://techcrunch.com/2025/04/11/ex-openai-staff-file-amicus-brief-opposing-the-companys-for-profit-transition/)
+- [GM cuts 500 jobs because of weak demand for BrightDrop electric vans](https://techcrunch.com/2025/04/11/gm-cuts-500-jobs-because-of-weak-demand-for-brightdrop-electric-vans/)
 - [ChatGPT became the most downloaded app globally in March](https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/)
-- [Private probe will refuel Space Force satellites high above Earth on landmark 2026 mission](https://www.space.com/space-exploration/satellites/private-probe-will-refuel-space-force-satellites-high-above-earth-on-landmark-2026-mission)
-- [How to watch &#39;Doctor Who&#39; season 2 online and from anywhere](https://www.space.com/entertainment/space-movies-shows/watch-doctor-who-season-2-online-from-anywhere)
-- [YouTube considers a daily timer for users looking to cut back on Shorts](https://techcrunch.com/2025/04/11/youtube-considers-a-daily-timer-for-users-looking-to-cut-back-on-shorts/)
-- [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
