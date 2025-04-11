@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaders from Accel and Paladin Capital Group join the stage at StrictlyVC London in May](https://techcrunch.com/2025/04/11/leaders-from-accel-and-paladin-capital-group-join-the-stage-at-strictlyvc-london-in-may/)
 - [Lucid Motors wins bankruptcy auction for Nikola’s Arizona factory and other assets](https://techcrunch.com/2025/04/10/lucid-motors-wins-bankruptcy-auction-for-nikolas-arizona-factory-and-other-assets/)
 - [Blue Origin’s all-female spaceflight urges women to shoot for the stars — but astronaut memoirs reveal the cost of being exceptional](https://www.space.com/space-exploration/private-spaceflight/blue-origins-all-female-spaceflight-urges-women-to-shoot-for-the-stars-but-astronaut-memoirs-reveal-the-cost-of-being-exceptional)
 - [Tesla used car listings skyrocketed in March](https://techcrunch.com/2025/04/10/tesla-used-car-listings-skyrocketed-in-march/)
 - [Stripe CEO says he ensures his top leaders interview a customer twice a month](https://techcrunch.com/2025/04/10/stripe-ceo-says-he-ensures-his-top-leaders-interview-a-customer-twice-a-month/)
-- [How Chef Robotics found success  by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
