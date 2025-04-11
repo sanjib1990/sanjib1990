@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch April&#39;s Full Pink &#39;micromoon&#39; rise this weekend with a free telescope livestream](https://www.space.com/the-universe/moon/watch-aprils-full-pink-micromoon-rise-this-weekend-with-a-free-telescope-livestream)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/)
 - [What to expect from the newfound Comet Swan: An observer&#39;s guide](https://www.space.com/the-universe/comets/what-to-expect-from-the-newfound-comet-swan-an-observers-guide)
 - [Texas senators: Move space shuttle Discovery from Smithsonian to Houston](https://www.space.com/space-exploration/space-shuttle/texas-senators-move-space-shuttle-discovery-from-smithsonian-to-houston)
 - [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/)
-- [Microsoft inks massive carbon removal deal powered by a paper mill](https://techcrunch.com/2025/04/11/microsoft-inks-massive-carbon-removal-deal-thats-powered-by-a-paper-mill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
