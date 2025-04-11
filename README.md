@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is winding down its GPT-4 AI model in ChatGPT](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/)
-- [Less than a month to get your exhibit table for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/11/less-than-a-month-to-get-your-exhibit-table-for-techcrunch-sessions-ai/)
-- [What time is Blue Origin&#39;s New Shepard launch with Katy Perry and Gayle King on April 14?](https://www.space.com/space-exploration/launches-spacecraft/what-time-is-blue-origins-new-shepard-launch-with-katy-perry-and-gayle-king-on-april-14)
-- [Dropbox’s chief customer officer Eric Cox plans to step down, per filing](https://techcrunch.com/2025/04/11/dropbox-chief-customer-officer-eric-cox-plans-to-step-down-per-filing/)
-- [Watch April&#39;s Full Pink &#39;micromoon&#39; rise this weekend with a free telescope livestream](https://www.space.com/the-universe/moon/watch-aprils-full-pink-micromoon-rise-this-weekend-with-a-free-telescope-livestream)
+- [The sun just leaked a huge amount of helium-3 — the rare isotope scientists want to harvest on the moon](https://www.space.com/the-universe/sun/the-sun-just-leaked-a-huge-amount-of-helium-3-the-rare-isotope-scientists-want-to-harvest-on-the-moon)
+- [5 Simon Stålenhag art books to check out after you&#39;ve watched &#39;The Electric State&#39; on Netflix](https://www.space.com/entertainment/5-simon-stalenhag-art-books-to-check-out-after-youve-watched-the-electric-state-on-netflix)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/11/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [OpenAI will soon phase out GPT-4 from ChatGPT](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
