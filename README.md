@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The sun just leaked a huge amount of helium-3 — the rare isotope scientists want to harvest on the moon](https://www.space.com/the-universe/sun/the-sun-just-leaked-a-huge-amount-of-helium-3-the-rare-isotope-scientists-want-to-harvest-on-the-moon)
-- [5 Simon Stålenhag art books to check out after you&#39;ve watched &#39;The Electric State&#39; on Netflix](https://www.space.com/entertainment/5-simon-stalenhag-art-books-to-check-out-after-youve-watched-the-electric-state-on-netflix)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/11/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [OpenAI will soon phase out GPT-4 from ChatGPT](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/)
+- [Parallel Systems is building autonomous electric rail for short-distance freight](https://techcrunch.com/2025/04/11/parallel-systems-is-building-autonomous-electric-rail-for-short-distance-freight/)
+- [A gravitational war next door: The Large Magellanic Cloud is gradually destroying the Small Magellanic Cloud](https://www.space.com/the-universe/a-gravitational-war-next-door-the-large-magellanic-cloud-is-gradually-destroying-the-small-magellanic-cloud)
+- [Hacked documents reveal guide to serving Elon Musk on private jets](https://techcrunch.com/2025/04/11/hacked-documents-reveal-guide-to-serving-elon-musk-on-private-jets/)
+- [Why Nest co-founder Matt Rogers is still bullish on HVAC](https://techcrunch.com/2025/04/11/why-nest-co-founder-matt-rogers-is-still-bullish-on-hvac/)
+- [Spotify invests over $1M to grow its catalog of non-English audiobooks](https://techcrunch.com/2025/04/11/spotify-invests-over-1m-to-grow-its-catalog-of-non-english-audiobooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
