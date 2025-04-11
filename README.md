@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump administration could slash NASA science budget by 50%, reports suggest](https://www.space.com/space-exploration/trump-administration-could-slash-nasa-science-budget-by-50-percent-reports-suggest)
+- [The most interesting startups showcased at Google Cloud Next](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/)
+- [Meta adds Stripe CEO Patrick Collison and Dina Powell McCormick to its board](https://techcrunch.com/2025/04/11/meta-adds-stripe-ceo-patrick-collison-and-dina-powell-mccormick-to-its-board/)
 - [Law professors side with authors battling Meta in AI copyright case](https://techcrunch.com/2025/04/11/law-professors-side-with-authors-battling-meta-in-ai-copyright-case/)
 - [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/)
-- [Elon Musk&#39;s DOGE team given &#39;alarming degree&#39; of access to NASA systems, House Democrats say](https://www.space.com/the-universe/earth/elon-musks-doge-team-given-alarming-degree-of-access-to-nasa-systems-house-democrats-say)
-- [The Fantastic Four suit up in awesome spacesuits in this sneak peek at &#39;The Fantastic Four: First Steps&#39;](https://www.space.com/entertainment/fantastic-four-suits-up-in-awesome-spacesuits-in-sneak-peek-of-the-fantastic-four-first-steps)
-- [TechCrunch Mobility: Jeff Bezos backs a secretive EV startup and Lucid snaps up Nikola’s assets](https://techcrunch.com/2025/04/11/techcrunch-mobility-jeff-bezos-backs-a-secretive-ev-startup-and-lucid-snaps-up-nikolas-assets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
