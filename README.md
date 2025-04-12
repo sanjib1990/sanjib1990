@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The xAI–X merger is a good deal — if you’re betting on Musk’s empire](https://techcrunch.com/2025/04/12/the-xai-x-merger-is-a-good-deal-if-youre-betting-on-musks-empire/)
 - [&#39;The Dream is [still] Alive&#39;: First IMAX film shot in space at 40 years](https://www.space.com/entertainment/space-movies-shows/the-dream-is-still-alive-first-imax-film-shot-in-space-at-40-years)
-- [&#39;I&#39;m really excited about the engineering of it all.&#39; Katy Perry is psyched for her blue origin launch on April 14](https://www.space.com/space-exploration/private-spaceflight/im-really-excited-about-the-engineering-of-it-all-katy-perry-is-psyched-for-her-blue-origin-launch-on-april-14)
+- [&#39;I&#39;m really excited about the engineering of it all.&#39; Katy Perry is psyched for her Blue Origin launch on April 14](https://www.space.com/space-exploration/private-spaceflight/im-really-excited-about-the-engineering-of-it-all-katy-perry-is-psyched-for-her-blue-origin-launch-on-april-14)
 - [This Week In Space podcast: Episode 156 — Rocket Blast](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-156-rocket-blast)
 - [SpaceX launches 9th batch of &#39;proliferated architecture&#39; spy satellites for US government &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-9th-batch-of-proliferated-architecture-spy-satellites-for-us-government)
 <!-- BLOG-POST-LIST:END -->
