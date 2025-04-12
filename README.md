@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/)
+- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/)
 - [Trump exempts smartphones, laptops, and semiconductors from new tariffs](https://techcrunch.com/2025/04/12/trump-exempts-smartphones-laptops-and-semiconductors-from-new-tariffs/)
 - [Week in Review: Jeff Bezos’ secret EV startup](https://techcrunch.com/2025/04/12/week-in-review-jeff-bezos-secret-ev-startup/)
 - [The xAI–X merger is a good deal — if you’re betting on Musk’s empire](https://techcrunch.com/2025/04/12/the-xai-x-merger-is-a-good-deal-if-youre-betting-on-musks-empire/)
-- [&#39;The Dream is [still] Alive&#39;: First IMAX film shot in space at 40 years](https://www.space.com/entertainment/space-movies-shows/the-dream-is-still-alive-first-imax-film-shot-in-space-at-40-years)
-- [&#39;I&#39;m really excited about the engineering of it all.&#39; Katy Perry is psyched for her Blue Origin launch on April 14](https://www.space.com/space-exploration/private-spaceflight/im-really-excited-about-the-engineering-of-it-all-katy-perry-is-psyched-for-her-blue-origin-launch-on-april-14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
