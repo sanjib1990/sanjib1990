@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You don&#39;t need to like every episode of &#39;Doctor Who&#39;. In fact, it&#39;s probably a good thing if you don&#39;t](https://www.space.com/entertainment/space-movies-shows/you-dont-need-to-like-every-episode-of-doctor-who-in-fact-its-probably-a-good-thing-if-you-dont)
 - [How to watch Blue Origin launch Katy Perry and crew to space on a historic all-female spaceflight on April 14](https://www.space.com/space-exploration/private-spaceflight/how-to-watch-blue-origin-launch-katy-perry-and-crew-to-space-on-a-historic-all-female-spaceflight-on-april-14)
 - [Forerunner’s long game: As startups stall before IPO, all options are on the table](https://techcrunch.com/2025/04/11/forerunners-long-game-as-startups-stall-before-ipo-all-options-are-on-the-table/)
 - [Easter is coming late in 2025, astronomically speaking. Here&#39;s why](https://www.space.com/the-universe/moon/easter-is-coming-late-in-2025-astronomically-speaking-heres-why)
 - [The newest GOES weather satellite in NOAA&#39;s fleet is now fully operational &lpar;video&rpar;](https://www.space.com/the-universe/earth/newest-us-goes-weather-satellite-fully-operational-video)
-- [Meta’s vanilla Maverick AI model ranks below rivals on a popular chat benchmark](https://techcrunch.com/2025/04/11/metas-vanilla-maverick-ai-model-ranks-below-rivals-on-a-popular-chat-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
