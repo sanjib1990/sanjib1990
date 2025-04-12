@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I&#39;m really excited about the engineering of it all.&#39; Katy Perry is psyched for her blue origin launch on April 14](https://www.space.com/space-exploration/private-spaceflight/im-really-excited-about-the-engineering-of-it-all-katy-perry-is-psyched-for-her-blue-origin-launch-on-april-14)
+- [This Week In Space podcast: Episode 156 — Rocket Blast](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-156-rocket-blast)
+- [SpaceX launches 9th batch of &#39;proliferated architecture&#39; spy satellites for US government](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-9th-batch-of-proliferated-architecture-spy-satellites-for-us-government)
 - [You don&#39;t need to like every episode of &#39;Doctor Who&#39;. In fact, it&#39;s probably a good thing if you don&#39;t](https://www.space.com/entertainment/space-movies-shows/you-dont-need-to-like-every-episode-of-doctor-who-in-fact-its-probably-a-good-thing-if-you-dont)
 - [How to watch Blue Origin launch Katy Perry and crew to space on a historic all-female spaceflight on April 14](https://www.space.com/space-exploration/private-spaceflight/how-to-watch-blue-origin-launch-katy-perry-and-crew-to-space-on-a-historic-all-female-spaceflight-on-april-14)
-- [Forerunner’s long game: As startups stall before IPO, all options are on the table](https://techcrunch.com/2025/04/11/forerunners-long-game-as-startups-stall-before-ipo-all-options-are-on-the-table/)
-- [Easter is coming late in 2025, astronomically speaking. Here&#39;s why](https://www.space.com/the-universe/moon/easter-is-coming-late-in-2025-astronomically-speaking-heres-why)
-- [The newest GOES weather satellite in NOAA&#39;s fleet is now fully operational &lpar;video&rpar;](https://www.space.com/the-universe/earth/newest-us-goes-weather-satellite-fully-operational-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
