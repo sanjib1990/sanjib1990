@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Access to future AI models in OpenAI’s API may require a verified ID](https://techcrunch.com/2025/04/13/access-to-future-ai-models-in-openais-api-may-require-a-verified-id/)
+- [Apple reportedly working on a Vision Pro that plugs into your Mac](https://techcrunch.com/2025/04/13/apple-reportedly-working-on-a-vision-pro-that-plugs-into-your-mac/)
 - [Tech tariff exemptions are only temporary, according to Trump’s commerce secretary](https://techcrunch.com/2025/04/13/tech-tariff-exemptions-are-only-temporary-according-to-trumps-commerce-secretary/)
 - [Jack Dorsey and Elon Musk would like to ‘delete all IP law’](https://techcrunch.com/2025/04/13/jack-dorsey-and-elon-musk-would-like-to-delete-all-ip-law/)
 - [Katy Perry and Blue Origin&#39;s all-female rocket crew get Monse designer flight suits](https://www.space.com/space-exploration/private-spaceflight/katy-perry-all-female-blue-origin-rocket-launch-get-monse-designer-flight-suits)
-- [Who is new &#39;Doctor Who&#39; companion Belinda Chandra? And where have we seen her before?](https://www.space.com/entertainment/space-movies-shows/who-is-new-doctor-who-companion-belinda-chandra)
-- [Jim Zemlin on taking a ‘portfolio approach’ to Linux Foundation projects](https://techcrunch.com/2025/04/13/jim-zemlin-on-taking-a-portfolio-approach-to-linux-foundation-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
