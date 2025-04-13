@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin set to launch all-female spaceflight with Katy Perry on April 14](https://www.space.com/space-exploration/private-spaceflight/blue-origin-set-to-launch-all-female-spaceflight-with-katy-perry-on-april-14)
 - [Why an Amazon driver could be the one who saves your life](https://techcrunch.com/2025/04/12/could-an-amazon-driver-could-be-the-one-who-saves-your-life/)
 - [SpaceX launches 21 Starlink satellites on Falcon 9 rocket, lands booster on ship at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-12-17-b1083-kennedy-space-center)
 - [Apple’s ‘Mythic Quest’ is ending with an updated Season 4 finale](https://techcrunch.com/2025/04/12/apples-mythic-quest-is-ending-with-an-updated-season-4-finale/)
 - [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/)
-- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
