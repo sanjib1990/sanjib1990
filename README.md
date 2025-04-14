@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘It is the highest high’: Here&#39;s what Katy Perry and the 5 other women of Blue Origin&#39;s historic all-female flight felt after liftoff  &lpar;videos&rpar;](https://www.space.com/space-exploration/private-spaceflight/it-is-the-highest-high-heres-what-katy-perry-and-the-5-other-women-of-blue-origins-historic-all-female-flight-felt-after-liftoff-videos)
+- [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/)
 - [Amanda Nguyen becomes 1st Vietnamese woman to fly to space: &#39;This journey really is about healing&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/amanda-nguyen-becomes-1st-vietnamese-woman-to-fly-to-space-this-journey-really-is-about-healing-video)
 - [Chinese marketplace DHgate becomes a top US app as trade war intensifies](https://techcrunch.com/2025/04/14/chinese-marketplace-dhgate-becomes-a-top-us-app-as-trade-war-intensifies/)
 - [&#39;I feel super connected to love&#39;: Katy Perry reflects on her historic space launch with Blue Origin &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/i-feel-super-connected-to-love-katy-perry-talks-about-her-historic-spaceflight-with-blue-origin-video)
-- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/)
-- [Hertz says customers’ personal data and driver’s licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
