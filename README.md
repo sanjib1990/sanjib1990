@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pop star Katy Perry and crew&#39;s Blue Origin spaceflight souvenirs](https://www.space.com/space-exploration/private-spaceflight/pop-star-katy-perry-and-crews-blue-origin-spaceflight-souvenirs)
-- [Blue Origin’s all-female crew, including Katy Perry, successfully launched](https://techcrunch.com/2025/04/14/blue-origins-all-female-crew-including-katy-perry-successfully-launched/)
-- [Some dark matter haloes could roll through the universe like hollow cosmic Easter Eggs](https://www.space.com/the-universe/some-dark-matter-haloes-could-roll-through-the-universe-like-hollow-cosmic-easter-eggs)
-- [Chipolo’s newest AirTag competitor works with both Apple and Google’s finding networks](https://techcrunch.com/2025/04/14/chipolos-newest-airtag-competitor-works-with-both-apple-and-googles-finding-networks/)
-- [Meta to start training its AI models on public content in the EU](https://techcrunch.com/2025/04/14/meta-to-start-training-its-ai-models-on-public-content-in-the-eu/)
+- [View the wonders of the night sky with one of the best star projectors around — now at one of its cheapest-ever prices](https://www.space.com/entertainmentview-the-wonders-of-the-night-sky-with-one-of-the-best-star-projectors-around-now-at-one-of-its-cheapest-ever-prices)
+- [OpenAI’s new GPT-4.1 AI models focus on coding](https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/)
+- [OpenAI plans to phase out GPT-4.5, its largest-ever AI model, from its API](https://techcrunch.com/2025/04/14/openai-plans-to-wind-down-gpt-4-5-its-largest-ever-ai-model-in-its-api/)
+- [Google’s newest AI model is designed to help study dolphin ‘speech’](https://techcrunch.com/2025/04/14/googles-newest-ai-model-is-designed-to-help-study-dolphin-speech/)
+- [Google Classroom gives teachers an AI feature for quiz questions](https://techcrunch.com/2025/04/14/google-classroom-gives-teachers-an-ai-feature-for-quiz-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
