@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;I feel super connected to love&#39;: Katy Perry talks about her historic spaceflight with Blue Origin &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/i-feel-super-connected-to-love-katy-perry-talks-about-her-historic-spaceflight-with-blue-origin-video)
+- [Amanda Nguyen becomes 1st Vietnamese woman to fly to space: &#39;This journey really is about healing&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/amanda-nguyen-becomes-1st-vietnamese-woman-to-fly-to-space-this-journey-really-is-about-healing-video)
+- [Chinese marketplace DHgate becomes a top US app as trade war intensifies](https://techcrunch.com/2025/04/14/chinese-marketplace-dhgate-becomes-a-top-us-app-as-trade-war-intensifies/)
+- [&#39;I feel super connected to love&#39;: Katy Perry reflects on her historic space launch with Blue Origin &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/i-feel-super-connected-to-love-katy-perry-talks-about-her-historic-spaceflight-with-blue-origin-video)
 - [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/)
 - [Hertz says customers’ personal data and driver’s licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/)
-- [Star Wars Celebration Japan 2025 is this weekend, and here are 5 things we want to see from the year&#39;s biggest Star Wars event](https://www.space.com/entertainment/space-movies-shows/star-wars-celebration-japan-2025-5-things-we-want-to-see)
-- [View the wonders of the night sky with one of the best star projectors around — now at one of its cheapest-ever prices](https://www.space.com/entertainmentview-the-wonders-of-the-night-sky-with-one-of-the-best-star-projectors-around-now-at-one-of-its-cheapest-ever-prices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
