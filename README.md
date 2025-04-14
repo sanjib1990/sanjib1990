@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space to launch its 1st orbiting data centers this year](https://www.space.com/space-exploration/private-spaceflight/axiom-space-to-launch-its-1st-orbiting-data-centers-this-year)
 - [3 big hunks of space junk crash to Earth every day — and it&#39;s only going to get worse](https://www.space.com/space-exploration/satellites/3-big-hunks-of-space-junk-crash-to-earth-every-day-and-its-only-going-to-get-worse)
 - [Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges](https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/)
 - [SpaceX Falcon 9 rocket launches 27 Starlink satellites to orbit on record-breaking 27th flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launches-27-starlink-satellites-to-orbit-on-record-breaking-27th-flight-photos)
 - [UK founders grow frustrated over dearth of funding: ‘the problem is getting worse’](https://techcrunch.com/2025/04/13/uk-founders-grow-frustrated-over-dearth-of-funding-the-problem-is-getting-worse/)
-- [Access to future AI models in OpenAI’s API may require a verified ID](https://techcrunch.com/2025/04/13/access-to-future-ai-models-in-openais-api-may-require-a-verified-id/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
