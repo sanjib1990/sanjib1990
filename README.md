@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pop star Katy Perry and crew&#39;s Blue Origin spaceflight souvenirs](https://www.space.com/space-exploration/private-spaceflight/pop-star-katy-perry-and-crews-blue-origin-spaceflight-souvenirs)
+- [Blue Origin’s all-female crew, including Katy Perry, successfully launched](https://techcrunch.com/2025/04/14/blue-origins-all-female-crew-including-katy-perry-successfully-launched/)
+- [Some dark matter haloes could roll through the universe like hollow cosmic Easter Eggs](https://www.space.com/the-universe/some-dark-matter-haloes-could-roll-through-the-universe-like-hollow-cosmic-easter-eggs)
 - [Chipolo’s newest AirTag competitor works with both Apple and Google’s finding networks](https://techcrunch.com/2025/04/14/chipolos-newest-airtag-competitor-works-with-both-apple-and-googles-finding-networks/)
 - [Meta to start training its AI models on public content in the EU](https://techcrunch.com/2025/04/14/meta-to-start-training-its-ai-models-on-public-content-in-the-eu/)
-- [With 70% off, this Apple TV+ offer is one of the best streaming deals I&#39;ve ever seen — watch all episodes of &quot;Severance&quot; and much, much more for just $2.99 a month](https://www.space.com/entertainment/watch-severance-silo-and-more-with-70-percent-off-apple-tv-plus-for-three-months)
-- [Hugging Face buys a humanoid robotics startup](https://techcrunch.com/2025/04/14/hugging-face-buys-a-humanoid-robotics-startup/)
-- [Katy Perry and Gayle King launch to space with 4 others on historic all-female Blue Origin rocket flight](https://www.space.com/space-exploration/private-spaceflight/katy-perry-and-gayle-king-launch-to-space-with-4-others-on-historic-all-female-blue-origin-rocket-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
