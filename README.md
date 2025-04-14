@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hertz says customers’ personal data and driver’s licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/)
+- [Star Wars Celebration Japan 2025 is this weekend, and here are 5 things we want to see from the year&#39;s biggest Star Wars event](https://www.space.com/entertainment/space-movies-shows/star-wars-celebration-japan-2025-5-things-we-want-to-see)
 - [View the wonders of the night sky with one of the best star projectors around — now at one of its cheapest-ever prices](https://www.space.com/entertainmentview-the-wonders-of-the-night-sky-with-one-of-the-best-star-projectors-around-now-at-one-of-its-cheapest-ever-prices)
 - [OpenAI’s new GPT-4.1 AI models focus on coding](https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/)
 - [OpenAI plans to phase out GPT-4.5, its largest-ever AI model, from its API](https://techcrunch.com/2025/04/14/openai-plans-to-wind-down-gpt-4-5-its-largest-ever-ai-model-in-its-api/)
-- [Google’s newest AI model is designed to help study dolphin ‘speech’](https://techcrunch.com/2025/04/14/googles-newest-ai-model-is-designed-to-help-study-dolphin-speech/)
-- [Google Classroom gives teachers an AI feature for quiz questions](https://techcrunch.com/2025/04/14/google-classroom-gives-teachers-an-ai-feature-for-quiz-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
