@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia says it plans to manufacture some AI chips in the U.S.](https://techcrunch.com/2025/04/14/nvidia-says-it-plans-to-manufacture-some-ai-chips-in-the-u-s/)
+- [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/)
+- [Intel agrees to sell controlling stake in Altera chip business](https://techcrunch.com/2025/04/14/intel-agrees-to-sell-controlling-stake-in-altera-chip-business/)
 - [We finally have a release date for ‘The Alters’, the sci-fi survival game where you team up with your clones to survive a planet on fire &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/sci-fi-survival-game-the-alters-commits-to-summer-release-with-new-puzzling-trailer-full-of-clones-and-hazards-video)
 - [April&#39;s Full Pink Moon captivates skywatchers worldwide with dazzling &#39;micromoon&#39; show &lpar;photos&rpar;](https://www.space.com/stargazing/aprils-full-pink-moon-captivates-skywatchers-worldwide-with-dazzling-micromoon-show-photos)
-- [Axiom Space to launch its 1st orbiting data centers this year](https://www.space.com/space-exploration/private-spaceflight/axiom-space-to-launch-its-1st-orbiting-data-centers-this-year)
-- [3 big hunks of space junk crash to Earth every day — and it&#39;s only going to get worse](https://www.space.com/space-exploration/satellites/3-big-hunks-of-space-junk-crash-to-earth-every-day-and-its-only-going-to-get-worse)
-- [Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges](https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
