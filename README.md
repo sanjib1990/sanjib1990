@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia says it plans to manufacture some AI chips in the U.S.](https://techcrunch.com/2025/04/14/nvidia-says-it-plans-to-manufacture-some-ai-chips-in-the-u-s/)
-- [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/)
-- [Intel agrees to sell controlling stake in Altera chip business](https://techcrunch.com/2025/04/14/intel-agrees-to-sell-controlling-stake-in-altera-chip-business/)
-- [We finally have a release date for ‘The Alters’, the sci-fi survival game where you team up with your clones to survive a planet on fire &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/sci-fi-survival-game-the-alters-commits-to-summer-release-with-new-puzzling-trailer-full-of-clones-and-hazards-video)
-- [April&#39;s Full Pink Moon captivates skywatchers worldwide with dazzling &#39;micromoon&#39; show &lpar;photos&rpar;](https://www.space.com/stargazing/aprils-full-pink-moon-captivates-skywatchers-worldwide-with-dazzling-micromoon-show-photos)
+- [Katy Perry and Gayle King launch to space with 4 others on historic all-female Blue Origin rocket flight](https://www.space.com/space-exploration/private-spaceflight/katy-perry-and-gayle-king-launch-to-space-with-4-others-on-historic-all-female-blue-origin-rocket-flight)
+- [Autonomous trucking startup Kodiak Robotics to go public via SPAC](https://techcrunch.com/2025/04/14/autonomous-trucking-startup-kodiak-robotics-to-go-public-via-spac/)
+- [Rare double solar blast unleashes 2 CMEs towards Earth — auroras possible April 16](https://www.space.com/rare-double-solar-blast-incoming-cmes-aurora-alert)
+- [Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg’s voices](https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/)
+- [Nvidia says it plans to manufacture some AI chips in the US](https://techcrunch.com/2025/04/14/nvidia-says-it-plans-to-manufacture-some-ai-chips-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
