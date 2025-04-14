@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chipolo’s newest AirTag competitor works with both Apple and Google’s finding networks](https://techcrunch.com/2025/04/14/chipolos-newest-airtag-competitor-works-with-both-apple-and-googles-finding-networks/)
+- [Meta to start training its AI models on public content in the EU](https://techcrunch.com/2025/04/14/meta-to-start-training-its-ai-models-on-public-content-in-the-eu/)
+- [With 70% off, this Apple TV+ offer is one of the best streaming deals I&#39;ve ever seen — watch all episodes of &quot;Severance&quot; and much, much more for just $2.99 a month](https://www.space.com/entertainment/watch-severance-silo-and-more-with-70-percent-off-apple-tv-plus-for-three-months)
+- [Hugging Face buys a humanoid robotics startup](https://techcrunch.com/2025/04/14/hugging-face-buys-a-humanoid-robotics-startup/)
 - [Katy Perry and Gayle King launch to space with 4 others on historic all-female Blue Origin rocket flight](https://www.space.com/space-exploration/private-spaceflight/katy-perry-and-gayle-king-launch-to-space-with-4-others-on-historic-all-female-blue-origin-rocket-flight)
-- [Autonomous trucking startup Kodiak Robotics to go public via SPAC](https://techcrunch.com/2025/04/14/autonomous-trucking-startup-kodiak-robotics-to-go-public-via-spac/)
-- [Rare double solar blast unleashes 2 CMEs towards Earth — auroras possible April 16](https://www.space.com/rare-double-solar-blast-incoming-cmes-aurora-alert)
-- [Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg’s voices](https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/)
-- [Nvidia says it plans to manufacture some AI chips in the US](https://techcrunch.com/2025/04/14/nvidia-says-it-plans-to-manufacture-some-ai-chips-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
