@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches 27 Starlink satellites to orbit on record-breaking 27th flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launches-27-starlink-satellites-to-orbit-on-record-breaking-27th-flight-photos)
 - [UK founders grow frustrated over dearth of funding: ‘the problem is getting worse’](https://techcrunch.com/2025/04/13/uk-founders-grow-frustrated-over-dearth-of-funding-the-problem-is-getting-worse/)
 - [Access to future AI models in OpenAI’s API may require a verified ID](https://techcrunch.com/2025/04/13/access-to-future-ai-models-in-openais-api-may-require-a-verified-id/)
 - [Apple reportedly working on a Vision Pro that plugs into your Mac](https://techcrunch.com/2025/04/13/apple-reportedly-working-on-a-vision-pro-that-plugs-into-your-mac/)
 - [Tech tariff exemptions are only temporary, according to Trump’s commerce secretary](https://techcrunch.com/2025/04/13/tech-tariff-exemptions-are-only-temporary-according-to-trumps-commerce-secretary/)
-- [Jack Dorsey and Elon Musk would like to ‘delete all IP law’](https://techcrunch.com/2025/04/13/jack-dorsey-and-elon-musk-would-like-to-delete-all-ip-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
