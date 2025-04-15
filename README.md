@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Which AI has the Best Memory?](https://www.youtube.com/watch?v=VSdcWKCT3V8)
 - [We took our Cable Management to the next level](https://www.youtube.com/watch?v=FV_7DnBMFAU)
 - [ChatGPT gets dumber the longer you talk](https://www.youtube.com/watch?v=QD2GWLGtZp4)
 - [Why LLMs get dumb &lpar;Context Windows Explained&rpar;](https://www.youtube.com/watch?v=TeQDr4DkLYo)
 - [we finally organized our Tech Junk Drawer](https://www.youtube.com/watch?v=ZWPh6c8Gqg8)
-- [Reputation Lag Attack - Computerphile](https://www.youtube.com/watch?v=R8MI8vsrFiQ)
 <!-- YOUTUBE:END -->
 
 ---
