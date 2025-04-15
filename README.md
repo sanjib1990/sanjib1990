@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/)
+- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/)
+- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/)
 - [Lucid Gravity First Drive: An electric SUV that doesn’t make compromises](https://techcrunch.com/2025/04/15/lucid-gravity-first-drive-an-electric-suv-that-doesnt-make-compromises/)
 - [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/)
-- [&#39;I&#39;ve never been more proud of my friend than today,&#39; Oprah Winfrey says as she watches Gayle King launch on Blue Origin rocket &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/ive-never-been-more-proud-of-my-friend-than-today-oprah-winfrey-says-as-she-watches-gayle-king-launch-on-blue-origin-rocket-video)
-- [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/)
-- [Alien life could exist on Saturn&#39;s big moon Titan — but finding it will be tough](https://www.space.com/space-exploration/search-for-life/alien-life-could-exist-on-saturns-big-moon-titan-but-finding-it-will-be-tough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
