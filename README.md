@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo and Uber prepare to launch robotaxi service in Atlanta this summer](https://techcrunch.com/2025/04/15/waymo-and-uber-prepare-to-launch-robotaxi-service-in-atlanta-this-summer/)
+- [Pulsar Fusion unveils vision for ‘Sunbird’ nuclear rocket to reach Mars in half the time &lpar;video&rpar;](https://www.space.com/space-exploration/pulsar-fusion-unveils-vision-for-sunbird-nuclear-rocket-to-reach-mars-in-half-the-time-video)
 - [James Webb Space Telescope sees a celestial Venn diagram around a dying star](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-sees-a-celestial-venn-diagram-around-a-dying-star)
 - [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/)
 - [Marshmallow, the UK insurance startup for migrants, raises $90M at a $2B+ valuation](https://techcrunch.com/2025/04/14/marshmallow-the-uk-insurance-startup-for-migrants-raises-90m-at-a-2b-valuation/)
-- [RLWRLD raises $14.8M to build a foundational model for robotics](https://techcrunch.com/2025/04/14/rlwrld-raises-14-4m-to-build-foundation-model-for-robotics/)
-- [Gayle King just conquered her fears with Blue Origin&#39;s all-female space launch. Here&#39;s how she did it.](https://www.space.com/space-exploration/private-spaceflight/gayle-king-just-conquered-her-fears-with-blue-origins-all-female-space-launch-heres-how-she-did-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
