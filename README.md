@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New photos from European Mars orbiter show dynamic, volcanic Red Planet terrain](https://www.space.com/the-universe/mars/new-photos-from-european-mars-orbiter-show-dynamic-volcanic-red-planet-terrain)
 - [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/)
 - [Google bets on geothermal to power data centers in Taiwan](https://techcrunch.com/2025/04/15/google-bets-on-geothermal-to-power-data-centers-in-taiwan/)
 - [Aisha Bowe becomes 1st Bahamian woman to reach space, remembers Alan Shepard’s landmark flight: &#39;He landed in Grand Bahama&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/aisha-bowe-becomes-1st-bahamian-woman-to-reach-space-remembers-alan-shepards-landmark-flight-he-landed-in-grand-bahama-video)
 - [Anthropic forms a new team to grow its AWS business](https://techcrunch.com/2025/04/15/anthropic-forms-a-new-team-to-grow-its-aws-business/)
-- [Aurora alert! Powerful geomagnetic storm could spark northern lights as far south as Illinois and Oregon tomorrow](https://www.space.com/strong-g3-geomagnetic-storm-northern-lights-far-south-illinois-oregon-april-16-aurora-alert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
