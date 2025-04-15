@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/)
+- [&#39;I&#39;ve never been more proud of my friend than today,&#39; Oprah Winfrey says as she watches Gayle King launch on Blue Origin rocket &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/ive-never-been-more-proud-of-my-friend-than-today-oprah-winfrey-says-as-she-watches-gayle-king-launch-on-blue-origin-rocket-video)
+- [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/)
 - [Alien life could exist on Saturn&#39;s big moon Titan — but finding it will be tough](https://www.space.com/space-exploration/search-for-life/alien-life-could-exist-on-saturns-big-moon-titan-but-finding-it-will-be-tough)
 - [Bungie&#39;s next sci-fi shooter &#39;Marathon&#39; has been revealed with a trio of action-packed trailers, a release date, and a closed alpha &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/bungies-next-sci-fi-shooter-marathon-has-been-revealed-with-a-trio-of-action-packed-trailers-a-release-date-and-a-closed-alpha-video)
-- [Apple details how it plans to improve its AI models by privately analyzing user data](https://techcrunch.com/2025/04/15/apple-details-how-it-plans-to-improve-its-ai-models-by-privately-analyzing-user-data/)
-- [Waymo and Uber prepare to launch robotaxi service in Atlanta this summer](https://techcrunch.com/2025/04/15/waymo-and-uber-prepare-to-launch-robotaxi-service-in-atlanta-this-summer/)
-- [Pulsar Fusion unveils vision for ‘Sunbird’ nuclear rocket to reach Mars in half the time &lpar;video&rpar;](https://www.space.com/space-exploration/pulsar-fusion-unveils-vision-for-sunbird-nuclear-rocket-to-reach-mars-in-half-the-time-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
