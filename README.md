@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/)
-- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/)
-- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/)
-- [Lucid Gravity First Drive: An electric SUV that doesn’t make compromises](https://techcrunch.com/2025/04/15/lucid-gravity-first-drive-an-electric-suv-that-doesnt-make-compromises/)
-- [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/)
+- [OpenAI is reportedly developing its own X-like social media platform](https://techcrunch.com/2025/04/15/openai-is-reportedly-developing-its-own-x-like-social-media-platform/)
+- [OpenAI ships GPT-4.1 without a safety report](https://techcrunch.com/2025/04/15/openai-ships-gpt-4-1-without-a-safety-report/)
+- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/)
+- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/)
+- [NASA astronaut Don Pettit and 2 cosmonauts will return to Earth on April 19](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-don-pettit-and-2-cosmonauts-will-return-to-earth-on-april-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
