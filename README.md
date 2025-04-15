@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RLWRLD raises $14.8M to build a foundational model for robotics](https://techcrunch.com/2025/04/14/rlwrld-raises-14-4m-to-build-foundation-model-for-robotics/)
 - [Gayle King just conquered her fears with Blue Origin&#39;s all-female space launch. Here&#39;s how she did it.](https://www.space.com/space-exploration/private-spaceflight/gayle-king-just-conquered-her-fears-with-blue-origins-all-female-space-launch-heres-how-she-did-it)
 - [Debates over AI benchmarking have reached Pokémon](https://techcrunch.com/2025/04/14/debates-over-ai-benchmarking-have-reached-pokemon/)
 - [100th person to fly only a suborbital spaceflight | Space picture of the day for April 14, 2025](https://www.space.com/space-exploration/private-spaceflight/100th-person-to-fly-only-a-suborbital-spaceflight-space-picture-of-the-day-for-april-14-2025)
 - [Lime’s scooter and e-bike batteries will be recycled by Redwood Materials](https://techcrunch.com/2025/04/14/limes-scooter-and-ebike-batteries-will-be-recycled-by-redwood-materials/)
-- [‘It is the highest high’: Here&#39;s what Katy Perry and the 5 other women of Blue Origin&#39;s historic all-female flight felt after liftoff  &lpar;videos&rpar;](https://www.space.com/space-exploration/private-spaceflight/it-is-the-highest-high-heres-what-katy-perry-and-the-5-other-women-of-blue-origins-historic-all-female-flight-felt-after-liftoff-videos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
