@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New photos from European Mars orbiter show dynamic, volcanic Red Planet terrain](https://www.space.com/the-universe/mars/new-photos-from-european-mars-orbiter-show-dynamic-volcanic-red-planet-terrain)
-- [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/)
-- [Google bets on geothermal to power data centers in Taiwan](https://techcrunch.com/2025/04/15/google-bets-on-geothermal-to-power-data-centers-in-taiwan/)
-- [Aisha Bowe becomes 1st Bahamian woman to reach space, remembers Alan Shepard’s landmark flight: &#39;He landed in Grand Bahama&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/aisha-bowe-becomes-1st-bahamian-woman-to-reach-space-remembers-alan-shepards-landmark-flight-he-landed-in-grand-bahama-video)
-- [Anthropic forms a new team to grow its AWS business](https://techcrunch.com/2025/04/15/anthropic-forms-a-new-team-to-grow-its-aws-business/)
+- [Stop doomscrolling and watch the ‘Great Moose Migration’ livestream](https://techcrunch.com/2025/04/15/stop-doomscrolling-and-watch-the-great-moose-migration-livestream/)
+- [Matter-spewing &#39;singularities&#39; could eliminate the need for dark energy and dark matter](https://www.space.com/the-universe/matter-spewing-singularities-could-eliminate-the-need-for-dark-energy-and-dark-matter)
+- [OpenAI may ‘adjust’ its safeguards if rivals release ‘high-risk’ AI](https://techcrunch.com/2025/04/15/openai-says-it-may-adjust-its-safety-requirements-if-a-rival-lab-releases-high-risk-ai/)
+- [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/)
+- [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
