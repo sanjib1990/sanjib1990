@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is reportedly developing its own X-like social media platform](https://techcrunch.com/2025/04/15/openai-is-reportedly-developing-its-own-x-like-social-media-platform/)
-- [OpenAI ships GPT-4.1 without a safety report](https://techcrunch.com/2025/04/15/openai-ships-gpt-4-1-without-a-safety-report/)
-- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/)
-- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/)
-- [NASA astronaut Don Pettit and 2 cosmonauts will return to Earth on April 19](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-don-pettit-and-2-cosmonauts-will-return-to-earth-on-april-19)
+- [Katy Perry just became the 1st pop star to sing in space — but Lance Bass, Beyonce, Lady Gaga, Sarah Brightman and Justin Bieber had their chance](https://www.space.com/space-exploration/private-spaceflight/katy-perry-just-became-the-1st-pop-star-to-sing-in-space-but-lance-bass-beyonce-lady-gaga-sarah-brightman-and-justin-bieber-had-their-chance)
+- [Google’s Veo 2 video generating model comes to Gemini](https://techcrunch.com/2025/04/15/googles-veo-2-video-generator-comes-to-gemini/)
+- [Anthropic’s Claude can now read your Gmail](https://techcrunch.com/2025/04/15/anthropics-claude-now-read-your-gmail/)
+- [Notorious image board 4chan hacked and internal data leaked](https://techcrunch.com/2025/04/15/notorious-image-board-4chan-hacked-and-internal-data-leaked/)
+- [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
