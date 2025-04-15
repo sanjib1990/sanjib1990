@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia H20 chip exports hit with license requirement by US government](https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/)
 - [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/)
 - [Telli, a YC alum, raises pre-seed funding for its AI voice agents](https://techcrunch.com/2025/04/15/telli-a-yc-alum-raises-pre-seed-funding-for-its-ai-voice-agents/)
 - [For security, Android phones will now auto-reboot after three days](https://techcrunch.com/2025/04/15/for-security-android-phones-will-now-auto-reboot-after-three-days/)
 - [TikTok takes on Google Maps by surfacing reviews in the comments tab](https://techcrunch.com/2025/04/15/tiktok-takes-on-google-maps-by-surfacing-reviews-in-the-comments-tab/)
-- [Stop doomscrolling and watch the ‘Great Moose Migration’ livestream](https://techcrunch.com/2025/04/15/stop-doomscrolling-and-watch-the-great-moose-migration-livestream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
