@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/)
+- [As Deezer approaches profitability, it rolls out a custom algorithm and other new features](https://techcrunch.com/2025/04/16/as-deezer-approaches-profitability-it-rolls-out-a-custom-algorithm-and-other-new-features/)
+- [TikTok begins testing Footnotes, a new Community Notes-like feature](https://techcrunch.com/2025/04/16/tiktok-begins-testing-footnotes-a-new-community-notes-like-feature/)
+- [Deck raises $12M to ‘Plaid-ify” any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/)
+- [NASA&#39;s Perseverance rover hits the Mars rock gold mine: &#39;It has been all we had hoped for and more&#39;](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-hits-the-mars-rock-gold-mine-it-has-been-all-we-had-hoped-for-and-more)
 - [TechCrunch All Stage: Full agenda revealed](https://techcrunch.com/2025/04/16/techcrunch-all-stage-full-agenda-revealed/)
-- [&#39;Planetary defense is knowing what&#39;s out there and what could do harm to us.&#39; Meet the scientist who helped build NASA&#39;s asteroid response plan](https://www.space.com/the-universe/asteroids/planetary-defense-is-knowing-whats-out-there-and-what-could-do-harm-to-us-meet-the-scientist-who-helped-build-nasas-asteroid-response-plan)
-- [Subaru debuts Trailseeker, an all-electric SUV coming for Rivian’s outdoorsy EV customer base](https://techcrunch.com/2025/04/16/subaru-debuts-trailseeker-an-all-electric-suv-coming-for-rivians-outdoorsy-ev-customer-base/)
-- [James Webb Space Telescope discovers most distant and earliest Milky Way &#39;twin&#39; ever seen. Meet dragon-galaxy Zhúlóng &lpar;Image&rpar;](https://www.space.com/the-universe/james-webb-space-telescope-discovers-most-distant-and-earliest-milky-way-twin-ever-seen-meet-dragon-galaxy-zhulong-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
