@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As Deezer approaches profitability, it rolls out a custom algorithm and other new features](https://techcrunch.com/2025/04/16/as-deezer-approaches-profitability-it-rolls-out-a-custom-algorithm-and-other-new-features/)
-- [TikTok begins testing Footnotes, a new Community Notes-like feature](https://techcrunch.com/2025/04/16/tiktok-begins-testing-footnotes-a-new-community-notes-like-feature/)
-- [Deck raises $12M to ‘Plaid-ify” any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/)
-- [NASA&#39;s Perseverance rover hits the Mars rock gold mine: &#39;It has been all we had hoped for and more&#39;](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-hits-the-mars-rock-gold-mine-it-has-been-all-we-had-hoped-for-and-more)
-- [TechCrunch All Stage: Full agenda revealed](https://techcrunch.com/2025/04/16/techcrunch-all-stage-full-agenda-revealed/)
+- [Bluesky feed builder Graze raises $1M, rolls out ads](https://techcrunch.com/2025/04/16/bluesky-feed-builder-graze-raises-1m-rolls-out-ads/)
+- [Every &#39;Black Mirror&#39; Season 7 episode, ranked from worst to best](https://www.space.com/entertainment/every-black-mirror-season-7-episode-ranked-from-worst-to-best)
+- [Apple races to surpass rivals in quest to eliminate carbon pollution](https://techcrunch.com/2025/04/16/apple-races-to-surpass-rivals-in-quest-to-eliminate-carbon-pollution/)
+- [Kia is pitching Americans an affordable EV sedan with EV4 debut](https://techcrunch.com/2025/04/16/kia-is-pitching-americans-an-affordable-ev-sedan-with-ev4-debut/)
+- [Startup funding hit records in Q1. But the outlook for 2025 is still awful.](https://techcrunch.com/2025/04/16/startup-funding-hit-records-in-q1-but-the-outlook-for-2025-is-still-awful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
