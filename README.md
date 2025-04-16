@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Musk manages his growing family: WSJ](https://techcrunch.com/2025/04/15/how-musk-manages-his-growing-family-wsj/)
 - [Grok gains a canvas-like tool for creating docs and apps](https://techcrunch.com/2025/04/15/grok-gains-a-canvas-like-tool-for-creating-docs-and-apps/)
 - [Nvidia H20 chip exports hit with license requirement by US government](https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/)
 - [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/)
 - [Telli, a YC alum, raises pre-seed funding for its AI voice agents](https://techcrunch.com/2025/04/15/telli-a-yc-alum-raises-pre-seed-funding-for-its-ai-voice-agents/)
-- [For security, Android phones will now auto-reboot after three days](https://techcrunch.com/2025/04/15/for-security-android-phones-will-now-auto-reboot-after-three-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
