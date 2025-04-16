@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bipartisan US Planetary Science Caucus &#39;alarmed&#39; by Trump&#39;s possible plans to slash NASA budget and block Mars Sample Return](https://www.space.com/space-exploration/bipartisan-us-planetary-science-caucus-alarmed-by-trumps-possible-plans-to-slash-nasa-budget-and-block-mars-sample-return)
+- [Zuckerberg: Snapchat would have grown faster if it accepted $6B buyout offer](https://techcrunch.com/2025/04/16/zuckerberg-snapchat-would-have-grown-faster-if-it-accepted-6b-buyout-offer/)
+- [Trump-appointed judge orders Trump admin to ‘turn the funding spigots back on’](https://techcrunch.com/2025/04/16/trump-appointed-judge-orders-trump-admin-to-turn-the-funding-spigots-back-on/)
 - [NASA continues stacking its giant Artemis 2 SLS moon rocket &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-continues-stacking-its-giant-artemis-2-sls-moon-rocket-photos)
-- [OpenAI is reportedly in talks to buy Codeium for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/)
-- [Rivian’s first non-Amazon van customer is HelloFresh](https://techcrunch.com/2025/04/16/rivians-first-non-amazon-van-customer-is-hellofresh/)
-- [Glitch forces Japan&#39;s asteroid-sampling Hayabusa2 probe into protective &#39;safe mode&#39; in deep space](https://www.space.com/space-exploration/missions/glitch-forces-japans-asteroid-sampling-hayabusa2-probe-into-protective-safe-mode-in-deep-space)
-- [A gateway to the Gateway around the moon | Space picture of the day for April 16, 2025](https://www.space.com/space-exploration/artemis/a-gateway-to-the-gateway-around-the-moon-space-picture-of-the-day-for-april-16-2025)
+- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
