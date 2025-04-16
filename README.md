@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chapter, a Medicare startup with links to Vance, Thiel and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/)
+- [Trump administration reportedly considers a US DeepSeek ban](https://techcrunch.com/2025/04/16/trump-administration-reportedly-considers-a-us-deepseek-ban/)
 - [US and UK militaries pick Rocket Lab&#39;s HASTE launcher to help test hypersonic tech](https://www.space.com/space-exploration/tech/us-and-uk-militaries-pick-rocket-labs-haste-launcher-to-help-test-hypersonic-tech)
-- [Rippling wants UK fintech Revolut to reveal who paid off Deel’s alleged “spy”](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/)
+- [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/)
 - [Rocket repurposed from intercontinental ballistic missile launches secret US spy satellites to orbit from California](https://www.space.com/space-exploration/launches-spacecraft/rocket-repurposed-from-intercontinental-ballistic-missile-launches-secret-us-spy-satellites-to-orbit-from-california)
-- [Former CISA director Chris Krebs vows to fight back against Trump-ordered federal investigation](https://techcrunch.com/2025/04/16/former-cisa-director-chris-krebs-vows-to-fight-back-against-trump-ordered-federal-investigation/)
-- [OpenAI’s latest AI models have a new safeguard to prevent biorisks](https://techcrunch.com/2025/04/16/openais-latest-ai-models-have-a-new-safeguard-to-prevent-biorisks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
