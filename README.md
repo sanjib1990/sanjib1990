@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic Robotics’ robots could speed up solar panel deployments](https://techcrunch.com/2025/04/16/cosmic-robotics-is-building-robots-to-speed-solar-power-deployments-for-data-centers/)
+- [Germany&#39;s military wants its own Starlink-like satellite constellation](https://www.space.com/space-exploration/satellites/germanys-military-wants-its-own-starlink-like-satellite-constellation)
 - [The best value VR headset, the Meta Quest 3, is now at its lowest-ever price, perfect if you want a bargain or to explore the world of virtual reality for less](https://www.space.com/tech/meta-quest-3-lowest-ever-price-save-30-dollars-best-value-vr-headset)
 - [Hammerspace, an unstructured data wrangler used by Nvidia, Meta and Tesla, raises $100M at $500M+ valuation](https://techcrunch.com/2025/04/16/hammerspace-an-unstructured-data-wrangler-used-by-nvidia-meta-and-tesla-raises-100m-at-500m-valuation/)
 - [Google used AI to suspend over 39M ad accounts suspected of fraud](https://techcrunch.com/2025/04/16/google-used-ai-to-suspend-over-39m-ad-accounts-committing-fraud/)
-- [How artificial intelligence is helping scientists hunt for alien Earths](https://www.space.com/the-universe/exoplanets/how-artificial-intelligence-is-helping-scientists-hunt-for-alien-earths)
-- [Visa-backed African unicorn Moniepoint tackles remittances. But is it late to the game?](https://techcrunch.com/2025/04/16/visa-backed-african-unicorn-moniepoint-tackles-remittances-but-is-it-late-to-the-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
