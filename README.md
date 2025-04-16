@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI partner says it had relatively little time to test the company’s newest AI models](https://techcrunch.com/2025/04/16/openai-partner-says-it-had-relatively-little-time-to-test-the-companys-new-ai-models/)
+- [Glitch forces Japan&#39;s asteroid-sampling Hayabusa2 probe into protective &#39;safe mode&#39; in deep space](https://www.space.com/space-exploration/missions/glitch-forces-japans-asteroid-sampling-hayabusa2-probe-into-protective-safe-mode-in-deep-space)
+- [A gateway to the Gateway around the moon | Space picture of the day for April 16, 2025](https://www.space.com/space-exploration/artemis/a-gateway-to-the-gateway-around-the-moon-space-picture-of-the-day-for-april-16-2025)
+- [Apple says zero-day bugs exploited against ‘specific targeted individuals’ using iOS](https://techcrunch.com/2025/04/16/apple-says-zero-day-bugs-exploited-against-specific-targeted-individuals-using-ios/)
+- [OpenAI partner says it had relatively little time to test the company’s o3 AI model](https://techcrunch.com/2025/04/16/openai-partner-says-it-had-relatively-little-time-to-test-the-companys-new-ai-models/)
 - [Scientists discover bizarre double-star system with exoplanet on a sideways orbit &lpar;video&rpar;](https://www.space.com/the-universe/exoplanets/scientists-discover-bizarre-double-star-system-with-exoplanet-on-a-sideways-orbit-video)
-- [India’s Uber-rival BluSmart appears to suspend service in wake of EV loan probe](https://techcrunch.com/2025/04/16/indias-uber-rival-blusmart-appears-to-suspend-service-in-wake-of-ev-loan-probe/)
-- [OpenAI launches a pair of AI reasoning models, o3 and o4-mini](https://techcrunch.com/2025/04/16/openai-launches-a-pair-of-ai-reasoning-models-o3-and-o4-mini/)
-- [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
