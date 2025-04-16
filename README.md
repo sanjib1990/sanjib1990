@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Shortest Path Algorithm Problem - Computerphile](https://www.youtube.com/watch?v=1fFO27FPM9A)
+- [Local AI has a Secret Weakness](https://www.youtube.com/watch?v=Flqljv8clcY)
 - [MIT Economist on Finance, AI, and Human Behavior](https://www.youtube.com/watch?v=8kFFg5jAoQc)
 - [Which AI has the Best Memory?](https://www.youtube.com/watch?v=VSdcWKCT3V8)
 - [We took our Cable Management to the next level](https://www.youtube.com/watch?v=FV_7DnBMFAU)
-- [ChatGPT gets dumber the longer you talk](https://www.youtube.com/watch?v=QD2GWLGtZp4)
-- [Why LLMs get dumb &lpar;Context Windows Explained&rpar;](https://www.youtube.com/watch?v=TeQDr4DkLYo)
 <!-- YOUTUBE:END -->
 
 ---
