@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA continues stacking its giant Artemis 2 SLS moon rocket &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-continues-stacking-its-giant-artemis-2-sls-moon-rocket-photos)
+- [OpenAI is reportedly in talks to buy Codeium for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/)
+- [Rivian’s first non-Amazon van customer is HelloFresh](https://techcrunch.com/2025/04/16/rivians-first-non-amazon-van-customer-is-hellofresh/)
 - [Glitch forces Japan&#39;s asteroid-sampling Hayabusa2 probe into protective &#39;safe mode&#39; in deep space](https://www.space.com/space-exploration/missions/glitch-forces-japans-asteroid-sampling-hayabusa2-probe-into-protective-safe-mode-in-deep-space)
 - [A gateway to the Gateway around the moon | Space picture of the day for April 16, 2025](https://www.space.com/space-exploration/artemis/a-gateway-to-the-gateway-around-the-moon-space-picture-of-the-day-for-april-16-2025)
-- [Apple says zero-day bugs exploited against ‘specific targeted individuals’ using iOS](https://techcrunch.com/2025/04/16/apple-says-zero-day-bugs-exploited-against-specific-targeted-individuals-using-ios/)
-- [OpenAI partner says it had relatively little time to test the company’s o3 AI model](https://techcrunch.com/2025/04/16/openai-partner-says-it-had-relatively-little-time-to-test-the-companys-new-ai-models/)
-- [Scientists discover bizarre double-star system with exoplanet on a sideways orbit &lpar;video&rpar;](https://www.space.com/the-universe/exoplanets/scientists-discover-bizarre-double-star-system-with-exoplanet-on-a-sideways-orbit-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
