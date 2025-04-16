@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI partner says it had relatively little time to test the company’s newest AI models](https://techcrunch.com/2025/04/16/openai-partner-says-it-had-relatively-little-time-to-test-the-companys-new-ai-models/)
+- [Scientists discover bizarre double-star system with exoplanet on a sideways orbit &lpar;video&rpar;](https://www.space.com/the-universe/exoplanets/scientists-discover-bizarre-double-star-system-with-exoplanet-on-a-sideways-orbit-video)
+- [India’s Uber-rival BluSmart appears to suspend service in wake of EV loan probe](https://techcrunch.com/2025/04/16/indias-uber-rival-blusmart-appears-to-suspend-service-in-wake-of-ev-loan-probe/)
 - [OpenAI launches a pair of AI reasoning models, o3 and o4-mini](https://techcrunch.com/2025/04/16/openai-launches-a-pair-of-ai-reasoning-models-o3-and-o4-mini/)
 - [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/)
-- [A &#39;cosmic car radio&#39; could help scientists tune in to dark matter within the next 15 years](https://www.space.com/the-universe/a-cosmic-car-radio-could-help-scientists-tune-in-to-dark-matter-within-the-next-15-years)
-- [Digital frame maker Aura introduces the Aspen, a $299 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-299-frame-with-more-intelligent-features/)
-- [Bluesky feed builder Graze raises $1M, rolls out ads](https://techcrunch.com/2025/04/16/bluesky-feed-builder-graze-raises-1m-rolls-out-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
