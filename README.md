@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How artificial intelligence is helping scientists hunt for alien Earths](https://www.space.com/the-universe/exoplanets/how-artificial-intelligence-is-helping-scientists-hunt-for-alien-earths)
+- [Visa-backed African unicorn Moniepoint tackles remittances. But is it late to the game?](https://techcrunch.com/2025/04/16/visa-backed-african-unicorn-moniepoint-tackles-remittances-but-is-it-late-to-the-game/)
 - [Opera adds its Aria AI assistant to Opera Mini browser](https://techcrunch.com/2025/04/16/opera-adds-its-aria-ai-assistant-to-opera-mini-browser/)
 - [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/)
 - [How Musk manages his growing family: WSJ](https://techcrunch.com/2025/04/15/how-musk-manages-his-growing-family-wsj/)
-- [Grok gains a canvas-like tool for creating docs and apps](https://techcrunch.com/2025/04/15/grok-gains-a-canvas-like-tool-for-creating-docs-and-apps/)
-- [Nvidia H20 chip exports hit with license requirement by US government](https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
