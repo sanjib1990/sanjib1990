@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera adds its Aria AI assistant to Opera Mini browser](https://techcrunch.com/2025/04/16/opera-adds-its-aria-ai-assistant-to-opera-mini-browser/)
 - [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/)
 - [How Musk manages his growing family: WSJ](https://techcrunch.com/2025/04/15/how-musk-manages-his-growing-family-wsj/)
 - [Grok gains a canvas-like tool for creating docs and apps](https://techcrunch.com/2025/04/15/grok-gains-a-canvas-like-tool-for-creating-docs-and-apps/)
 - [Nvidia H20 chip exports hit with license requirement by US government](https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/)
-- [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
