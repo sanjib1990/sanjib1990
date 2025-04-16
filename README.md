@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/)
+- [TechCrunch All Stage: Full agenda revealed](https://techcrunch.com/2025/04/16/techcrunch-all-stage-full-agenda-revealed/)
+- [&#39;Planetary defense is knowing what&#39;s out there and what could do harm to us.&#39; Meet the scientist who helped build NASA&#39;s asteroid response plan](https://www.space.com/the-universe/asteroids/planetary-defense-is-knowing-whats-out-there-and-what-could-do-harm-to-us-meet-the-scientist-who-helped-build-nasas-asteroid-response-plan)
+- [Subaru debuts Trailseeker, an all-electric SUV coming for Rivian’s outdoorsy EV customer base](https://techcrunch.com/2025/04/16/subaru-debuts-trailseeker-an-all-electric-suv-coming-for-rivians-outdoorsy-ev-customer-base/)
 - [James Webb Space Telescope discovers most distant and earliest Milky Way &#39;twin&#39; ever seen. Meet dragon-galaxy Zhúlóng &lpar;Image&rpar;](https://www.space.com/the-universe/james-webb-space-telescope-discovers-most-distant-and-earliest-milky-way-twin-ever-seen-meet-dragon-galaxy-zhulong-image)
-- [Lyft to buy taxi app FREENOW for $197M to enter Europe](https://techcrunch.com/2025/04/16/lyft-to-buy-taxi-app-freenow-for-197m-to-enter-europe/)
-- [AMD estimates $800M charge on US license requirement for AI chips](https://techcrunch.com/2025/04/16/amd-takes-800m-charge-on-us-license-requirement-for-ai-chips/)
-- [Patreon tests a native live video feature where creators can stream 24/7](https://techcrunch.com/2025/04/16/patreon-tests-a-native-live-video-feature-where-creators-can-stream-24-7/)
-- [The Lyrids are back: How to catch this year&#39;s spring meteor shower](https://www.space.com/lyrid-meteor-shower-2025-has-begun-here-is-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
