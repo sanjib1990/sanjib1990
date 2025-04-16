@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bipartisan US Planetary Science Caucus &#39;alarmed&#39; by Trump&#39;s possible plans to slash NASA budget and block Mars Sample Return](https://www.space.com/space-exploration/bipartisan-us-planetary-science-caucus-alarmed-by-trumps-possible-plans-to-slash-nasa-budget-and-block-mars-sample-return)
-- [Zuckerberg: Snapchat would have grown faster if it accepted $6B buyout offer](https://techcrunch.com/2025/04/16/zuckerberg-snapchat-would-have-grown-faster-if-it-accepted-6b-buyout-offer/)
-- [Trump-appointed judge orders Trump admin to ‘turn the funding spigots back on’](https://techcrunch.com/2025/04/16/trump-appointed-judge-orders-trump-admin-to-turn-the-funding-spigots-back-on/)
-- [NASA continues stacking its giant Artemis 2 SLS moon rocket &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-continues-stacking-its-giant-artemis-2-sls-moon-rocket-photos)
-- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/)
+- [US and UK militaries pick Rocket Lab&#39;s HASTE launcher to help test hypersonic tech](https://www.space.com/space-exploration/tech/us-and-uk-militaries-pick-rocket-labs-haste-launcher-to-help-test-hypersonic-tech)
+- [Rippling wants UK fintech Revolut to reveal who paid off Deel’s alleged “spy”](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/)
+- [Rocket repurposed from intercontinental ballistic missile launches secret US spy satellites to orbit from California](https://www.space.com/space-exploration/launches-spacecraft/rocket-repurposed-from-intercontinental-ballistic-missile-launches-secret-us-spy-satellites-to-orbit-from-california)
+- [Former CISA director Chris Krebs vows to fight back against Trump-ordered federal investigation](https://techcrunch.com/2025/04/16/former-cisa-director-chris-krebs-vows-to-fight-back-against-trump-ordered-federal-investigation/)
+- [OpenAI’s latest AI models have a new safeguard to prevent biorisks](https://techcrunch.com/2025/04/16/openais-latest-ai-models-have-a-new-safeguard-to-prevent-biorisks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
