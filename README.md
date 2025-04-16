@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cosmic Robotics’ robots could speed up solar panel deployments](https://techcrunch.com/2025/04/16/cosmic-robotics-is-building-robots-to-speed-solar-power-deployments-for-data-centers/)
-- [Germany&#39;s military wants its own Starlink-like satellite constellation](https://www.space.com/space-exploration/satellites/germanys-military-wants-its-own-starlink-like-satellite-constellation)
-- [The best value VR headset, the Meta Quest 3, is now at its lowest-ever price, perfect if you want a bargain or to explore the world of virtual reality for less](https://www.space.com/tech/meta-quest-3-lowest-ever-price-save-30-dollars-best-value-vr-headset)
-- [Hammerspace, an unstructured data wrangler used by Nvidia, Meta and Tesla, raises $100M at $500M+ valuation](https://techcrunch.com/2025/04/16/hammerspace-an-unstructured-data-wrangler-used-by-nvidia-meta-and-tesla-raises-100m-at-500m-valuation/)
-- [Google used AI to suspend over 39M ad accounts suspected of fraud](https://techcrunch.com/2025/04/16/google-used-ai-to-suspend-over-39m-ad-accounts-committing-fraud/)
+- [James Webb Space Telescope discovers most distant and earliest Milky Way &#39;twin&#39; ever seen. Meet dragon-galaxy Zhúlóng &lpar;Image&rpar;](https://www.space.com/the-universe/james-webb-space-telescope-discovers-most-distant-and-earliest-milky-way-twin-ever-seen-meet-dragon-galaxy-zhulong-image)
+- [Lyft to buy taxi app FREENOW for $197M to enter Europe](https://techcrunch.com/2025/04/16/lyft-to-buy-taxi-app-freenow-for-197m-to-enter-europe/)
+- [AMD estimates $800M charge on US license requirement for AI chips](https://techcrunch.com/2025/04/16/amd-takes-800m-charge-on-us-license-requirement-for-ai-chips/)
+- [Patreon tests a native live video feature where creators can stream 24/7](https://techcrunch.com/2025/04/16/patreon-tests-a-native-live-video-feature-where-creators-can-stream-24-7/)
+- [The Lyrids are back: How to catch this year&#39;s spring meteor shower](https://www.space.com/lyrid-meteor-shower-2025-has-begun-here-is-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
