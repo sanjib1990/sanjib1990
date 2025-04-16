@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI launches a pair of AI reasoning models, o3 and o4-mini](https://techcrunch.com/2025/04/16/openai-launches-a-pair-of-ai-reasoning-models-o3-and-o4-mini/)
+- [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/)
+- [A &#39;cosmic car radio&#39; could help scientists tune in to dark matter within the next 15 years](https://www.space.com/the-universe/a-cosmic-car-radio-could-help-scientists-tune-in-to-dark-matter-within-the-next-15-years)
+- [Digital frame maker Aura introduces the Aspen, a $299 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-299-frame-with-more-intelligent-features/)
 - [Bluesky feed builder Graze raises $1M, rolls out ads](https://techcrunch.com/2025/04/16/bluesky-feed-builder-graze-raises-1m-rolls-out-ads/)
-- [Every &#39;Black Mirror&#39; Season 7 episode, ranked from worst to best](https://www.space.com/entertainment/every-black-mirror-season-7-episode-ranked-from-worst-to-best)
-- [Apple races to surpass rivals in quest to eliminate carbon pollution](https://techcrunch.com/2025/04/16/apple-races-to-surpass-rivals-in-quest-to-eliminate-carbon-pollution/)
-- [Kia is pitching Americans an affordable EV sedan with EV4 debut](https://techcrunch.com/2025/04/16/kia-is-pitching-americans-an-affordable-ev-sedan-with-ev4-debut/)
-- [Startup funding hit records in Q1. But the outlook for 2025 is still awful.](https://techcrunch.com/2025/04/16/startup-funding-hit-records-in-q1-but-the-outlook-for-2025-is-still-awful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
