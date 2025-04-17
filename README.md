@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram’s new Blend feature creates a custom reels feed for you and your friends](https://techcrunch.com/2025/04/17/instagrams-new-blend-feature-creates-a-custom-reels-feed-for-you-and-your-friends/)
+- [&#39;Murderbot&#39;: Release date, plot, cast, and everything we know about Apple&#39;s upcoming dark sci-fi comedy](https://www.space.com/entertainment/space-movies-shows/murderbot-release-date-plot-cast-and-everything-we-know-about-apples-upcoming-dark-sci-fi-comedy)
+- [Here are all the tech companies rolling back DEI or still committed to it — so far](https://techcrunch.com/2025/04/17/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/)
 - [OpenAI’s Stargate project sets its sights on international expansion](https://techcrunch.com/2025/04/17/openais-stargate-project-sets-its-sights-on-international-expansion/)
 - [The latest viral ChatGPT trend is doing ‘reverse location search’ from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
-- [Judge rules Google illegally monopolized ad tech, opening door to potential breakup](https://techcrunch.com/2025/04/17/judge-rules-google-illegally-monopolized-ad-tech-opening-door-to-potential-breakup/)
-- [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/)
-- [China rolls out rocket for Shenzhou 20 astronaut launch to its Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-rolls-out-rocket-for-shenzhou-20-astronaut-launch-to-its-tiangong-space-station-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
