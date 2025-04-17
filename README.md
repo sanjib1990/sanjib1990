@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Possible signs of alien life found on nearby exoplanet, study reports](https://www.space.com/the-universe/exoplanets/possible-signs-of-alien-life-found-on-nearby-exoplanet-study-reports)
+- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/)
+- [Altair Hypercam 26C APS-C Colour TEC astronomy camera review](https://www.space.com/stargazing/astronomy-kit/altair-hypercam-26c-aps-c-colour-tec-astronomy-camera-review)
 - [Florida draft law mandating encryption backdoors for social media accounts billed ‘dangerous and dumb’](https://techcrunch.com/2025/04/17/florida-draft-law-mandating-encryption-backdoors-for-social-media-accounts-billed-dangerous-and-dumb/)
 - [The original &#39;Star Wars&#39; theatrical cut &lpar;where Han shoots first&rpar; is coming back to theaters... well, one theater... for one night only](https://www.space.com/entertainment/the-original-star-wars-theatrical-cut-where-han-shoots-first-is-coming-back-to-theaters-well-one-theater-for-one-night-only)
-- [Instagram’s new Blend feature creates a custom reels feed for you and your friends](https://techcrunch.com/2025/04/17/instagrams-new-blend-feature-creates-a-custom-reels-feed-for-you-and-your-friends/)
-- [&#39;Murderbot&#39;: Release date, plot, cast, and everything we know about Apple&#39;s upcoming dark sci-fi comedy](https://www.space.com/entertainment/space-movies-shows/murderbot-release-date-plot-cast-and-everything-we-know-about-apples-upcoming-dark-sci-fi-comedy)
-- [Here are all the tech companies rolling back DEI or still committed to it — so far](https://techcrunch.com/2025/04/17/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
