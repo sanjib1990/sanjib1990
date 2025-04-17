@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A hidden solar cycle is awakening, but more extreme space weather over the next 50 years may not be a bad thing](https://www.space.com/hidden-solar-cycle-is-awakening-but-more-extreme-space-weather-over-the-next-50-years-may-not-be-a-bad-thing)
-- [Shein and Temu to raise prices for US shoppers in response to tariffs](https://techcrunch.com/2025/04/17/shein-and-temu-to-raise-prices-for-us-shoppers-in-response-to-tariffs/)
-- [I cover deals and streaming content for a living and I recommend this Apple TV Plus deal, now $2.99 a month, this Easter](https://www.space.com/entertainment/the-best-easter-streaming-deal-available-apple-tv-plus-70-percent-off)
-- [How AI is helping scientists unlock some of the sun&#39;s deepest secrets](https://www.space.com/the-universe/sun/were-building-a-future-where-every-observation-past-or-future-can-speak-the-same-scientific-language-ai-unlocks-secrets-of-our-sun-in-decades-old-data)
-- [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/)
+- [OpenAI’s Stargate project sets its sights on international expansion](https://techcrunch.com/2025/04/17/openais-stargate-project-sets-its-sights-on-international-expansion/)
+- [The latest viral ChatGPT trend is doing ‘reverse location search’ from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
+- [Judge rules Google illegally monopolized ad tech, opening door to potential breakup](https://techcrunch.com/2025/04/17/judge-rules-google-illegally-monopolized-ad-tech-opening-door-to-potential-breakup/)
+- [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/)
+- [China rolls out rocket for Shenzhou 20 astronaut launch to its Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-rolls-out-rocket-for-shenzhou-20-astronaut-launch-to-its-tiangong-space-station-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
