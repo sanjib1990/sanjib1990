@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA developing 1st-ever space-based quantum sensor for gravity measurements](https://www.space.com/space-exploration/tech/nasa-developing-1st-ever-space-based-quantum-sensor-for-gravity-measurements)
+- [Haircut on high: Getting a trim in space | Space picture of the day for April 17, 2025](https://www.space.com/space-exploration/international-space-station/haircut-on-high-getting-a-trim-in-space-space-picture-of-the-day-for-april-17-2025)
+- [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/)
 - [OpenAI launches Flex processing for cheaper, slower AI tasks](https://techcrunch.com/2025/04/17/openai-launches-flex-processing-for-cheaper-slower-ai-tasks/)
 - [Moon-orbiting Gateway space station&#39;s habitat module arrives in the US &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/moon-orbiting-gateway-space-stations-habitat-module-arrives-in-the-us-photos)
-- [Carbon removal startup Holocene bought by oil and gas giant Occidental](https://techcrunch.com/2025/04/17/carbon-removal-startup-holocene-bought-by-oil-and-gas-giant-occidental/)
-- [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/)
-- [Chinese shopping app Taobao joins DHgate in Top 5 on US App Store](https://techcrunch.com/2025/04/17/chinese-shopping-app-taobao-joins-dhgate-in-top-5-on-us-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
