@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A hidden solar cycle is awakening, but more extreme space weather over the next 50 years may not be a bad thing](https://www.space.com/hidden-solar-cycle-is-awakening-but-more-extreme-space-weather-over-the-next-50-years-may-not-be-a-bad-thing)
+- [Shein and Temu to raise prices for US shoppers in response to tariffs](https://techcrunch.com/2025/04/17/shein-and-temu-to-raise-prices-for-us-shoppers-in-response-to-tariffs/)
+- [I cover deals and streaming content for a living and I recommend this Apple TV Plus deal, now $2.99 a month, this Easter](https://www.space.com/entertainment/the-best-easter-streaming-deal-available-apple-tv-plus-70-percent-off)
 - [How AI is helping scientists unlock some of the sun&#39;s deepest secrets](https://www.space.com/the-universe/sun/were-building-a-future-where-every-observation-past-or-future-can-speak-the-same-scientific-language-ai-unlocks-secrets-of-our-sun-in-decades-old-data)
 - [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/)
-- [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/)
-- [Rare &#39;cannibal&#39; solar eruption sparks severe geomagnetic storm, triggers stunning auroras &lpar;photos&rpar;](https://www.space.com/stargazing/aurora-borealis/rare-cannibal-solar-eruption-sparks-severe-geomagnetic-storm-triggers-auroras-worldwide-photos)
-- [Where to see the Lyrid meteor shower 2025: Top viewing tips](https://www.space.com/where-to-see-lyrid-meteor-shower-2025-top-viewing-tips)
 <!-- BLOG-POST-LIST:END -->
 
 ---
