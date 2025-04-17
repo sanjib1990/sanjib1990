@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s latest AI model report lacks key safety details, experts say](https://techcrunch.com/2025/04/17/googles-latest-ai-model-report-lacks-key-safety-details-experts-say/)
+- [Automakers selling cars in China banned from using ‘autonomous driving’ in ads](https://techcrunch.com/2025/04/17/automakers-selling-cars-in-china-banned-from-using-autonomous-driving-in-ads/)
 - [Possible signs of alien life found on nearby exoplanet, study reports](https://www.space.com/the-universe/exoplanets/possible-signs-of-alien-life-found-on-nearby-exoplanet-study-reports)
 - [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/)
 - [Altair Hypercam 26C APS-C Colour TEC astronomy camera review](https://www.space.com/stargazing/astronomy-kit/altair-hypercam-26c-aps-c-colour-tec-astronomy-camera-review)
-- [Florida draft law mandating encryption backdoors for social media accounts billed ‘dangerous and dumb’](https://techcrunch.com/2025/04/17/florida-draft-law-mandating-encryption-backdoors-for-social-media-accounts-billed-dangerous-and-dumb/)
-- [The original &#39;Star Wars&#39; theatrical cut &lpar;where Han shoots first&rpar; is coming back to theaters... well, one theater... for one night only](https://www.space.com/entertainment/the-original-star-wars-theatrical-cut-where-han-shoots-first-is-coming-back-to-theaters-well-one-theater-for-one-night-only)
 <!-- BLOG-POST-LIST:END -->
 
 ---
