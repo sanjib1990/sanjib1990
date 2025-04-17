@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s latest AI model report lacks key safety details, experts say](https://techcrunch.com/2025/04/17/googles-latest-ai-model-report-lacks-key-safety-details-experts-say/)
-- [Automakers selling cars in China banned from using ‘autonomous driving’ in ads](https://techcrunch.com/2025/04/17/automakers-selling-cars-in-china-banned-from-using-autonomous-driving-in-ads/)
-- [Possible signs of alien life found on nearby exoplanet, study reports](https://www.space.com/the-universe/exoplanets/possible-signs-of-alien-life-found-on-nearby-exoplanet-study-reports)
-- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/)
-- [Altair Hypercam 26C APS-C Colour TEC astronomy camera review](https://www.space.com/stargazing/astronomy-kit/altair-hypercam-26c-aps-c-colour-tec-astronomy-camera-review)
+- [Carbon removal startup Holocene bought by oil and gas giant Occidental](https://techcrunch.com/2025/04/17/carbon-removal-startup-holocene-bought-by-oil-and-gas-giant-occidental/)
+- [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/)
+- [Chinese shopping app Taobao joins DHgate in Top 5 on US App Store](https://techcrunch.com/2025/04/17/chinese-shopping-app-taobao-joins-dhgate-in-top-5-on-us-app-store/)
+- [Former Y Combinator president Geoff Ralston launches new AI ‘safety’ fund](https://techcrunch.com/2025/04/17/former-y-combinator-president-geoff-ralston-launches-new-ai-safety-fund/)
+- [Iconic Sombrero Galaxy shines in reprocessed Hubble Telescope view &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/iconic-sombrero-galaxy-shines-in-reprocessed-hubble-telescope-view-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
