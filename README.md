@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/)
 - [NASA developing 1st-ever space-based quantum sensor for gravity measurements](https://www.space.com/space-exploration/tech/nasa-developing-1st-ever-space-based-quantum-sensor-for-gravity-measurements)
 - [Haircut on high: Getting a trim in space | Space picture of the day for April 17, 2025](https://www.space.com/space-exploration/international-space-station/haircut-on-high-getting-a-trim-in-space-space-picture-of-the-day-for-april-17-2025)
 - [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/)
 - [OpenAI launches Flex processing for cheaper, slower AI tasks](https://techcrunch.com/2025/04/17/openai-launches-flex-processing-for-cheaper-slower-ai-tasks/)
-- [Moon-orbiting Gateway space station&#39;s habitat module arrives in the US &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/moon-orbiting-gateway-space-stations-habitat-module-arrives-in-the-us-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
