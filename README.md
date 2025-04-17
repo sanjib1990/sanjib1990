@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How AI is helping scientists unlock some of the sun&#39;s deepest secrets](https://www.space.com/the-universe/sun/were-building-a-future-where-every-observation-past-or-future-can-speak-the-same-scientific-language-ai-unlocks-secrets-of-our-sun-in-decades-old-data)
+- [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/)
+- [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/)
 - [Rare &#39;cannibal&#39; solar eruption sparks severe geomagnetic storm, triggers stunning auroras &lpar;photos&rpar;](https://www.space.com/stargazing/aurora-borealis/rare-cannibal-solar-eruption-sparks-severe-geomagnetic-storm-triggers-auroras-worldwide-photos)
 - [Where to see the Lyrid meteor shower 2025: Top viewing tips](https://www.space.com/where-to-see-lyrid-meteor-shower-2025-top-viewing-tips)
-- [Vast swarms of hidden galaxies may be secretly bathing the universe in a soft glow](https://www.space.com/the-universe/galaxies/vast-swarms-of-hidden-galaxies-may-be-secretly-bathing-the-universe-in-a-soft-glow)
-- [Smashing, the reading curation app by Goodreads’ founder, shuts down](https://techcrunch.com/2025/04/16/smashing-the-reading-curation-app-by-goodreads-founder-shuts-down/)
-- [xAI adds a ‘memory’ feature to Grok](https://techcrunch.com/2025/04/16/xai-adds-a-memory-feature-to-grok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
