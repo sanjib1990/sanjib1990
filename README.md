@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vast swarms of hidden galaxies may be secretly bathing the universe in a soft glow](https://www.space.com/the-universe/galaxies/vast-swarms-of-hidden-galaxies-may-be-secretly-bathing-the-universe-in-a-soft-glow)
 - [Smashing, the reading curation app by Goodreads’ founder, shuts down](https://techcrunch.com/2025/04/16/smashing-the-reading-curation-app-by-goodreads-founder-shuts-down/)
 - [xAI adds a ‘memory’ feature to Grok](https://techcrunch.com/2025/04/16/xai-adds-a-memory-feature-to-grok/)
 - [Zoom restores service after an hours-long outage](https://techcrunch.com/2025/04/16/zoom-restores-service-after-an-hours-long-outage/)
 - [Chapter, a Medicare startup with links to Vance, Thiel, and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/)
-- [Trump administration reportedly considers a US DeepSeek ban](https://techcrunch.com/2025/04/16/trump-administration-reportedly-considers-a-us-deepseek-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
