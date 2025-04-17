@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI launches Flex processing for cheaper, slower AI tasks](https://techcrunch.com/2025/04/17/openai-launches-flex-processing-for-cheaper-slower-ai-tasks/)
+- [Moon-orbiting Gateway space station&#39;s habitat module arrives in the US &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/moon-orbiting-gateway-space-stations-habitat-module-arrives-in-the-us-photos)
 - [Carbon removal startup Holocene bought by oil and gas giant Occidental](https://techcrunch.com/2025/04/17/carbon-removal-startup-holocene-bought-by-oil-and-gas-giant-occidental/)
 - [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/)
 - [Chinese shopping app Taobao joins DHgate in Top 5 on US App Store](https://techcrunch.com/2025/04/17/chinese-shopping-app-taobao-joins-dhgate-in-top-5-on-us-app-store/)
-- [Former Y Combinator president Geoff Ralston launches new AI ‘safety’ fund](https://techcrunch.com/2025/04/17/former-y-combinator-president-geoff-ralston-launches-new-ai-safety-fund/)
-- [Iconic Sombrero Galaxy shines in reprocessed Hubble Telescope view &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/iconic-sombrero-galaxy-shines-in-reprocessed-hubble-telescope-view-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
