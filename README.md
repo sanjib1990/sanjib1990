@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT will now use its ‘memory’ to personalize web searches](https://techcrunch.com/2025/04/18/chatgpt-will-now-use-its-memory-to-personalize-web-searches/)
+- [2 private satellites undock after pioneering life-extension mission](https://www.space.com/space-exploration/satellites/2-private-satellites-undock-after-pioneering-life-extension-mission)
+- [Trump EPA targets two-man geoengineering startup for ‘polluting the air’](https://techcrunch.com/2025/04/18/trump-epa-targets-two-man-geoengineering-startup-for-polluting-the-air/)
 - [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/)
 - [It&#39;s always a pleasure to meet a new Lego Star Wars set, as Jango Fett’s Firespray-Class Starship drops in for Star Wars Day](https://www.space.com/entertainment/space-games-toys/its-always-a-pleasure-to-meet-a-new-lego-star-wars-set-as-jango-fetts-firespray-class-starship-drops-in-for-star-wars-day)
-- [The Nintendo Switch 2 will still cost $450 in the US, despite tariffs](https://techcrunch.com/2025/04/18/the-nintendo-switch-2-will-still-cost-450-in-the-us-despite-tariffs/)
-- [Ryan Gosling&#39;s new &#39;Star Wars&#39; movie &#39;Starfighter&#39; is coming in 2027, and it has nothing to do with the Starfighter games](https://www.space.com/entertainment/space-movies-shows/ryan-goslings-new-star-wars-movie-is-called-starfighter-its-coming-in-2027-and-it-has-nothing-to-do-with-the-starfighter-games)
-- [Final day to submit your speaker application and shape the next wave of startups at TechCrunch All Stage](https://techcrunch.com/2025/04/18/final-day-to-submit-your-speaker-application-and-shape-the-next-wave-of-startups-at-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
