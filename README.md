@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/)
+- [It&#39;s always a pleasure to meet a new Lego Star Wars set, as Jango Fett’s Firespray-Class Starship drops in for Star Wars Day](https://www.space.com/entertainment/space-games-toys/its-always-a-pleasure-to-meet-a-new-lego-star-wars-set-as-jango-fetts-firespray-class-starship-drops-in-for-star-wars-day)
+- [The Nintendo Switch 2 will still cost $450 in the US, despite tariffs](https://techcrunch.com/2025/04/18/the-nintendo-switch-2-will-still-cost-450-in-the-us-despite-tariffs/)
 - [Ryan Gosling&#39;s new &#39;Star Wars&#39; movie &#39;Starfighter&#39; is coming in 2027, and it has nothing to do with the Starfighter games](https://www.space.com/entertainment/space-movies-shows/ryan-goslings-new-star-wars-movie-is-called-starfighter-its-coming-in-2027-and-it-has-nothing-to-do-with-the-starfighter-games)
 - [Final day to submit your speaker application and shape the next wave of startups at TechCrunch All Stage](https://techcrunch.com/2025/04/18/final-day-to-submit-your-speaker-application-and-shape-the-next-wave-of-startups-at-techcrunch-all-stage/)
-- [Netflix is revamping search with AI to improve discovery](https://techcrunch.com/2025/04/18/netflix-is-revamping-search-with-ai-to-improve-discovery/)
-- [&#39;It&#39;s very pro-commercial space right now&#39;: An industry insider&#39;s off-Earth status report](https://www.space.com/space-exploration/private-spaceflight/its-very-pro-commercial-space-right-now-an-industry-insiders-off-earth-status-report)
-- [&#39;I Have No Mouth, and I Must Scream&#39; celebrates 30 years with a console port, ready to traumatise a whole new generation with its tales of a mad AI god](https://www.space.com/entertainment/space-games-toys/i-have-no-mouth-and-i-must-scream-celebrates-30-years-with-a-console-port-ready-to-traumatise-a-whole-new-generation-with-its-tales-of-a-mad-ai-god)
 <!-- BLOG-POST-LIST:END -->
 
 ---
