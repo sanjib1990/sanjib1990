@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Mixed messages from venture capital](https://techcrunch.com/2025/04/18/startups-weekly-mixed-messages-from-venture-capital/)
+- [&#39;Star Wars: Maul – Shadow Lord&#39; is the next animated series from a galaxy far, far away coming to Disney Plus](https://www.space.com/entertainment/space-movies-shows/star-wars-maul-shadow-lord-is-the-next-animated-series-from-a-galaxy-far-far-away-coming-to-disney-plus)
+- [TikToker sues Roblox over her Charli XCX ‘Apple’ dance](https://techcrunch.com/2025/04/18/tiktoker-sues-roblox-over-her-charli-xcx-apple-dance/)
+- [Explosion destroys building at Northrop Grumman rocket test site in Utah](https://www.space.com/space-exploration/tech/explosion-at-northrop-grumman-rocket-test-site-in-utah-destroys-building)
 - [ChatGPT will now use its ‘memory’ to personalize web searches](https://techcrunch.com/2025/04/18/chatgpt-will-now-use-its-memory-to-personalize-web-searches/)
-- [2 private satellites undock after pioneering life-extension mission](https://www.space.com/space-exploration/satellites/2-private-satellites-undock-after-pioneering-life-extension-mission)
-- [Trump EPA targets two-man geoengineering startup for ‘polluting the air’](https://techcrunch.com/2025/04/18/trump-epa-targets-two-man-geoengineering-startup-for-polluting-the-air/)
-- [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/)
-- [It&#39;s always a pleasure to meet a new Lego Star Wars set, as Jango Fett’s Firespray-Class Starship drops in for Star Wars Day](https://www.space.com/entertainment/space-games-toys/its-always-a-pleasure-to-meet-a-new-lego-star-wars-set-as-jango-fetts-firespray-class-starship-drops-in-for-star-wars-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
