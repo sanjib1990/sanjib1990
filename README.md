@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I Have No Mouth, and I Must Scream&#39; celebrates 30 years with a console port, ready to traumatise a whole new generation with its tales of a mad AI god](https://www.space.com/entertainment/space-games-toys/i-have-no-mouth-and-i-must-scream-celebrates-30-years-with-a-console-port-ready-to-traumatise-a-whole-new-generation-with-its-tales-of-a-mad-ai-god)
 - [Apollo 11 astronaut Neil Armstrong&#39;s gold Omega moonwatch sells for record $2.2M at auction](https://www.space.com/space-exploration/apollo/apollo-11-astronaut-neil-armstrongs-gold-omega-moonwatch-sells-for-record-usd2-2m-at-auction)
 - [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/)
 - [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/)
 - [NASA developing 1st-ever space-based quantum sensor for gravity measurements](https://www.space.com/space-exploration/tech/nasa-developing-1st-ever-space-based-quantum-sensor-for-gravity-measurements)
-- [Haircut on high: Getting a trim in space | Space picture of the day for April 17, 2025](https://www.space.com/space-exploration/international-space-station/haircut-on-high-getting-a-trim-in-space-space-picture-of-the-day-for-april-17-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
