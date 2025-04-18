@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How NASA’s Webb Telescope Supports Our Search for Life Beyond Earth](https://blogs.nasa.gov/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/)
-- [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/)
-- [Celestron EclipSmart 20x50mm Porro solar binoculars review](https://www.space.com/stargazing/astronomy-kit/celestron-eclipsmart-20x50mm-porro-solar-binoculars-review)
-- [Ghostly galaxy without dark matter baffles astronomers](https://www.space.com/the-universe/ghostly-galaxy-without-dark-matter-baffles-astronomers)
-- [Cosmic party streamer for Hubble&#39;s 35th | Space picture of the day for April 18, 2025](https://www.space.com/space-exploration/hubble-space-telescope/cosmic-party-streamer-for-hubbles-35th-space-picture-of-the-day-for-april-18-2025)
+- [NASA&#39;s sun-studying PUNCH mission captures its 1st-light images. Everything looks great so far](https://www.space.com/the-universe/sun/nasas-sun-studying-punch-mission-captures-its-1st-light-images-everything-looks-great-so-far)
+- [TechCrunch Mobility: Lyft buys its way into Europe, Kodiak SPACs, and how China’s new ADAS rules might affect Tesla](https://techcrunch.com/2025/04/18/techcrunch-mobility-lyft-buys-its-way-into-europe-kodiak-spacs-and-how-chinas-new-adas-rules-might-affect-tesla/)
+- [Star Wars Celebration reveals new footage about Sigourney Weaver&#39;s &#39;The Mandalorian &amp; Grogu&#39; character](https://www.space.com/entertainment/space-movies-shows/star-wars-celebration-reveals-new-footage-about-sigourney-weavers-the-mandalorian-and-grogu-character)
+- [White House replaces covid.gov website with ‘lab leak’ theory](https://techcrunch.com/2025/04/18/white-house-replaces-covid-gov-website-with-lab-leak-theory/)
+- [ChatGPT is referring to users by their names unprompted, and some find it ‘creepy’](https://techcrunch.com/2025/04/18/chatgpt-is-referring-to-users-by-their-names-unprompted-and-some-find-it-creepy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
