@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
+- [&#39;Take care of our station. It&#39;s our everything.&#39; Russian cosmonaut hands control of ISS over to Japanese astronaut &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/take-care-of-our-station-its-our-everything-russian-cosmonaut-hands-control-of-iss-over-to-japanese-astronaut-video)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/18/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Bluesky may soon add blue check verification](https://techcrunch.com/2025/04/18/bluesky-may-soon-add-blue-check-verification/)
 - [NASA&#39;s sun-studying PUNCH mission captures its 1st-light images. Everything looks great so far](https://www.space.com/the-universe/sun/nasas-sun-studying-punch-mission-captures-its-1st-light-images-everything-looks-great-so-far)
-- [TechCrunch Mobility: Lyft buys its way into Europe, Kodiak SPACs, and how China’s new ADAS rules might affect Tesla](https://techcrunch.com/2025/04/18/techcrunch-mobility-lyft-buys-its-way-into-europe-kodiak-spacs-and-how-chinas-new-adas-rules-might-affect-tesla/)
-- [Star Wars Celebration reveals new footage about Sigourney Weaver&#39;s &#39;The Mandalorian &amp; Grogu&#39; character](https://www.space.com/entertainment/space-movies-shows/star-wars-celebration-reveals-new-footage-about-sigourney-weavers-the-mandalorian-and-grogu-character)
-- [White House replaces covid.gov website with ‘lab leak’ theory](https://techcrunch.com/2025/04/18/white-house-replaces-covid-gov-website-with-lab-leak-theory/)
-- [ChatGPT is referring to users by their names unprompted, and some find it ‘creepy’](https://techcrunch.com/2025/04/18/chatgpt-is-referring-to-users-by-their-names-unprompted-and-some-find-it-creepy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
