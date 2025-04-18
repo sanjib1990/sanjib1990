@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How NASA’s Webb Telescope Supports Our Search for Life Beyond Earth](https://blogs.nasa.gov/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/)
+- [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/)
 - [Celestron EclipSmart 20x50mm Porro solar binoculars review](https://www.space.com/stargazing/astronomy-kit/celestron-eclipsmart-20x50mm-porro-solar-binoculars-review)
 - [Ghostly galaxy without dark matter baffles astronomers](https://www.space.com/the-universe/ghostly-galaxy-without-dark-matter-baffles-astronomers)
 - [Cosmic party streamer for Hubble&#39;s 35th | Space picture of the day for April 18, 2025](https://www.space.com/space-exploration/hubble-space-telescope/cosmic-party-streamer-for-hubbles-35th-space-picture-of-the-day-for-april-18-2025)
-- [Startups Weekly: Mixed messages from venture capital](https://techcrunch.com/2025/04/18/startups-weekly-mixed-messages-from-venture-capital/)
-- [&#39;Star Wars: Maul – Shadow Lord&#39; is the next animated series from a galaxy far, far away coming to Disney Plus](https://www.space.com/entertainment/space-movies-shows/star-wars-maul-shadow-lord-is-the-next-animated-series-from-a-galaxy-far-far-away-coming-to-disney-plus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
