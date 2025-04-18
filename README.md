@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ryan Gosling&#39;s new &#39;Star Wars&#39; movie &#39;Starfighter&#39; is coming in 2027, and it has nothing to do with the Starfighter games](https://www.space.com/entertainment/space-movies-shows/ryan-goslings-new-star-wars-movie-is-called-starfighter-its-coming-in-2027-and-it-has-nothing-to-do-with-the-starfighter-games)
+- [Final day to submit your speaker application and shape the next wave of startups at TechCrunch All Stage](https://techcrunch.com/2025/04/18/final-day-to-submit-your-speaker-application-and-shape-the-next-wave-of-startups-at-techcrunch-all-stage/)
 - [Netflix is revamping search with AI to improve discovery](https://techcrunch.com/2025/04/18/netflix-is-revamping-search-with-ai-to-improve-discovery/)
 - [&#39;It&#39;s very pro-commercial space right now&#39;: An industry insider&#39;s off-Earth status report](https://www.space.com/space-exploration/private-spaceflight/its-very-pro-commercial-space-right-now-an-industry-insiders-off-earth-status-report)
 - [&#39;I Have No Mouth, and I Must Scream&#39; celebrates 30 years with a console port, ready to traumatise a whole new generation with its tales of a mad AI god](https://www.space.com/entertainment/space-games-toys/i-have-no-mouth-and-i-must-scream-celebrates-30-years-with-a-console-port-ready-to-traumatise-a-whole-new-generation-with-its-tales-of-a-mad-ai-god)
-- [Apollo 11 astronaut Neil Armstrong&#39;s gold Omega moonwatch sells for record $2.2M at auction](https://www.space.com/space-exploration/apollo/apollo-11-astronaut-neil-armstrongs-gold-omega-moonwatch-sells-for-record-usd2-2m-at-auction)
-- [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
