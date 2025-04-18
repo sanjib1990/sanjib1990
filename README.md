@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could Mars volcanoes have supported ancient life on the Red Planet? Well, maybe](https://www.space.com/the-universe/mars/could-mars-volcanoes-have-supported-ancient-life-on-the-red-planet-well-maybe)
+- [A new kids’ show will come with a crypto wallet when it debuts this fall](https://techcrunch.com/2025/04/18/a-new-kids-show-will-come-with-a-crypto-wallet-when-it-debuts-this-fall/)
+- [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/)
+- [Bahamas puts SpaceX rocket landings on hold pending review: report](https://www.space.com/space-exploration/launches-spacecraft/bahamas-puts-spacex-rocket-landings-on-hold-pending-review-report)
 - [OpenAI’s new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
-- [&#39;Take care of our station. It&#39;s our everything.&#39; Russian cosmonaut hands control of ISS over to Japanese astronaut &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/take-care-of-our-station-its-our-everything-russian-cosmonaut-hands-control-of-iss-over-to-japanese-astronaut-video)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/18/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Bluesky may soon add blue check verification](https://techcrunch.com/2025/04/18/bluesky-may-soon-add-blue-check-verification/)
-- [NASA&#39;s sun-studying PUNCH mission captures its 1st-light images. Everything looks great so far](https://www.space.com/the-universe/sun/nasas-sun-studying-punch-mission-captures-its-1st-light-images-everything-looks-great-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
