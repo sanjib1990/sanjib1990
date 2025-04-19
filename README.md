@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: Zero Company&#39; is a new X-COM-style strategy video game set during the Clone Wars, and it&#39;s coming in 2026 &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-wars-zero-company-is-a-new-x-com-style-strategy-video-game-set-during-the-clone-wars-and-its-coming-in-2026-video)
+- [This Week In Space podcast: Episode 157 — Space Force!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-157-space-force)
 - [What&#39;s with all the fourth wall breaking in &#39;Lux&#39;, the latest episode of &#39;Doctor Who&#39;?](https://www.space.com/entertainment/space-movies-shows/whats-with-all-the-fourth-wall-breaking-in-lux-the-latest-episode-of-doctor-who)
 - [Watch NASA astronaut Don Pettit and 2 cosmonauts return to Earth today](https://www.space.com/space-exploration/international-space-station/watch-nasa-astronaut-don-pettit-and-2-cosmonauts-return-to-earth-today)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/)
-- [Could Mars volcanoes have supported ancient life on the Red Planet? Well, maybe](https://www.space.com/the-universe/mars/could-mars-volcanoes-have-supported-ancient-life-on-the-red-planet-well-maybe)
-- [A new kids’ show will come with a crypto wallet when it debuts this fall](https://techcrunch.com/2025/04/18/a-new-kids-show-will-come-with-a-crypto-wallet-when-it-debuts-this-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
