@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA astronaut Don Pettit and 2 cosmonauts return to Earth today](https://www.space.com/space-exploration/international-space-station/watch-nasa-astronaut-don-pettit-and-2-cosmonauts-return-to-earth-today)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/)
 - [Could Mars volcanoes have supported ancient life on the Red Planet? Well, maybe](https://www.space.com/the-universe/mars/could-mars-volcanoes-have-supported-ancient-life-on-the-red-planet-well-maybe)
 - [A new kids’ show will come with a crypto wallet when it debuts this fall](https://techcrunch.com/2025/04/18/a-new-kids-show-will-come-with-a-crypto-wallet-when-it-debuts-this-fall/)
 - [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/)
-- [Bahamas puts SpaceX rocket landings on hold pending review: report](https://www.space.com/space-exploration/launches-spacecraft/bahamas-puts-spacex-rocket-landings-on-hold-pending-review-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
