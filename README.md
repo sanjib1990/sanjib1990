@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s with all the fourth wall breaking in &#39;Lux&#39;, the latest episode of &#39;Doctor Who&#39;?](https://www.space.com/entertainment/space-movies-shows/whats-with-all-the-fourth-wall-breaking-in-lux-the-latest-episode-of-doctor-who)
 - [Watch NASA astronaut Don Pettit and 2 cosmonauts return to Earth today](https://www.space.com/space-exploration/international-space-station/watch-nasa-astronaut-don-pettit-and-2-cosmonauts-return-to-earth-today)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/)
 - [Could Mars volcanoes have supported ancient life on the Red Planet? Well, maybe](https://www.space.com/the-universe/mars/could-mars-volcanoes-have-supported-ancient-life-on-the-red-planet-well-maybe)
 - [A new kids’ show will come with a crypto wallet when it debuts this fall](https://techcrunch.com/2025/04/18/a-new-kids-show-will-come-with-a-crypto-wallet-when-it-debuts-this-fall/)
-- [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
