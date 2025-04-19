@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it](https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/)
+- [NASA&#39;s Lucy probe will fly by the asteroid Donaldjohanson on Easter Sunday](https://www.space.com/the-universe/asteroids/nasas-lucy-probe-will-fly-by-the-asteroid-donaldjohanson-on-easter-sunday)
 - [&#39;Star Wars: Zero Company&#39; is a new X-COM-style strategy video game set during the Clone Wars, and it&#39;s coming in 2026 &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-wars-zero-company-is-a-new-x-com-style-strategy-video-game-set-during-the-clone-wars-and-its-coming-in-2026-video)
 - [This Week In Space podcast: Episode 157 — Space Force!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-157-space-force)
 - [What&#39;s with all the fourth wall breaking in &#39;Lux&#39;, the latest episode of &#39;Doctor Who&#39;?](https://www.space.com/entertainment/space-movies-shows/whats-with-all-the-fourth-wall-breaking-in-lux-the-latest-episode-of-doctor-who)
-- [Watch NASA astronaut Don Pettit and 2 cosmonauts return to Earth today](https://www.space.com/space-exploration/international-space-station/watch-nasa-astronaut-don-pettit-and-2-cosmonauts-return-to-earth-today)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
