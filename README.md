@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Congress has questions about 23andMe bankruptcy](https://techcrunch.com/2025/04/19/congress-has-questions-about-23andme-bankruptcy/)
 - [Robots run a half marathon, slowly](https://techcrunch.com/2025/04/19/robots-run-a-half-marathon-slowly/)
 - [Lunt SunOculars 8x32 solar binoculars review](https://www.space.com/stargazing/astronomy-kit/lunt-sunoculars-8x32-solar-binoculars-review)
 - [Week in Review: Google loses a major antitrust case](https://techcrunch.com/2025/04/19/week-in-review-google-loses-a-major-antitrust-case/)
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/)
-- [Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it](https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
