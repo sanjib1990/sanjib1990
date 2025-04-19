@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robots run a half marathon, slowly](https://techcrunch.com/2025/04/19/robots-run-a-half-marathon-slowly/)
 - [Lunt SunOculars 8x32 solar binoculars review](https://www.space.com/stargazing/astronomy-kit/lunt-sunoculars-8x32-solar-binoculars-review)
 - [Week in Review: Google loses a major antitrust case](https://techcrunch.com/2025/04/19/week-in-review-google-loses-a-major-antitrust-case/)
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/)
 - [Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it](https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/)
-- [NASA&#39;s Lucy probe will fly by the asteroid Donaldjohanson on Easter Sunday](https://www.space.com/the-universe/asteroids/nasas-lucy-probe-will-fly-by-the-asteroid-donaldjohanson-on-easter-sunday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
