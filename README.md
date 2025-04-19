@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lunt SunOculars 8x32 solar binoculars review](https://www.space.com/stargazing/astronomy-kit/lunt-sunoculars-8x32-solar-binoculars-review)
 - [Week in Review: Google loses a major antitrust case](https://techcrunch.com/2025/04/19/week-in-review-google-loses-a-major-antitrust-case/)
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/)
 - [Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it](https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/)
 - [NASA&#39;s Lucy probe will fly by the asteroid Donaldjohanson on Easter Sunday](https://www.space.com/the-universe/asteroids/nasas-lucy-probe-will-fly-by-the-asteroid-donaldjohanson-on-easter-sunday)
-- [&#39;Star Wars: Zero Company&#39; is a new X-COM-style strategy video game set during the Clone Wars, and it&#39;s coming in 2026 &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-wars-zero-company-is-a-new-x-com-style-strategy-video-game-set-during-the-clone-wars-and-its-coming-in-2026-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
