@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
 - [On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test](https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026)
 - [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)
 - [SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly)
 - [Feel the Force with these 10 out-of-this-world Lego Star Wars starships](https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships)
-- [NASA expands Deep Space Network with giant new dish in California desert](https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
