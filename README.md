@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Last Starship&#39; is 2026&#39;s most slept-on space game — you need to check out this &#39;FTL&#39;-like shipbuilding strategy gem](https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem)
+- [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+- [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
 - [The moon will hide Jupiter in broad daylight on Sept.8 — here&#39;s how to see it](https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it)
 - [Earth&#39;s moon could have formed in just 5 hours after giant impact](https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact)
-- [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/)
-- [On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour&#39;s STS-69 mission](https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026)
-- [Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026](https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
