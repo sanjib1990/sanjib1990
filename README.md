@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching](https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching)
-- [Labor Day in space: NASA astronauts get the holiday off](https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off)
-- [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/)
-- [Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)
-- [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
+- [The moon will hide Jupiter in broad daylight on Sept.8 — here&#39;s how to see it](https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it)
+- [Earth&#39;s moon could have formed in just 5 hours after giant impact](https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact)
+- [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/)
+- [On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour&#39;s STS-69 mission](https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026)
+- [Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026](https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
