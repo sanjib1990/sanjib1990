@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)
 - [&#39;The Last Starship&#39; is 2026&#39;s most slept-on space game — you need to check out this &#39;FTL&#39;-like shipbuilding strategy gem](https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem)
 - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
 - [The moon will hide Jupiter in broad daylight on Sept.8 — here&#39;s how to see it](https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it)
-- [Earth&#39;s moon could have formed in just 5 hours after giant impact](https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
