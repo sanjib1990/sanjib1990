@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China on track to launch Mars sample-return mission in 2028: &#39;If accurate, this represents a Sputnik moment&#39;](https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment)
-- [Google DeepMind alumni are building tools to accelerate fusion power for the grid](https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/)
-- [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
-- [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
-- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)
+- [Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/)
+- [Uber invests $10M in Indian fleet operator Carrum at $168M valuation](https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/)
+- [AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?](https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/)
+- [On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch](https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026)
+- [Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026](https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
