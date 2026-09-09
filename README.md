@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/)
-- [Uber invests $10M in Indian fleet operator Carrum at $168M valuation](https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/)
-- [AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?](https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/)
-- [On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch](https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026)
-- [Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026](https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026)
+- [Apple’s revamped Health app will calculate your ‘health age’ and readiness score](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/)
+- [Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day](https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/)
+- [Apple has a new way prove your iPhone photos aren’t AI slop](https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/)
+- [Apple shows off AirPods 5 with improved active noise cancellation](https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/)
+- [NASA&#39;s newly launched Roman Space Telescope will &#39;directly&#39; image exoplanets. But what does that mean?](https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
