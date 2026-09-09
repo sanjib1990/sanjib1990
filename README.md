@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [5 open source tools that replaced my $320/mo AI stack...](https://www.youtube.com/watch?v=Y5rSSvXfL4g)
-- [Omarchy Can Do WHAT?! 50 Features You’re Missing](https://www.youtube.com/watch?v=2IDjteRQgMQ)
 - [Did OpenAI actually build AGI? GPT-6 Astra first look](https://www.youtube.com/watch?v=FluKUJyeYD8)
-- [Linux Doesn’t Have to Be Ugly](https://www.youtube.com/shorts/yQ4prIKen74)
-- [How Watermarks Track AI Generated Content - Computerphile](https://www.youtube.com/watch?v=kVXp6UNVPTo)
+- [The most interesting hack in history just got weirder...](https://www.youtube.com/watch?v=0Rp9KJCEIvg)
+- [The mystery is solved... and the answer is 40x cheaper than Claude](https://www.youtube.com/watch?v=r-tzcMlQISk)
+- [The most expensive software bug in history...](https://www.youtube.com/watch?v=UuqSy1jPSUw)
 <!-- YOUTUBE:END -->
 
 ---
