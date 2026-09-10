@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Windows Took 90 Minutes. Omarchy Took 1.](https://www.youtube.com/shorts/6HPG3WGd1wQ)
+- [From CDs in India to Building AI Security at PayPal](https://www.youtube.com/watch?v=1dI09ZGoc3I)
+- [The AI Language We Can&#39;t Read: Neuralese ft. Rob Miles - Computerphile](https://www.youtube.com/watch?v=iuHddnIzKRA)
 - [I built the same game with Astra and Fable 5.1... only one was fun](https://www.youtube.com/watch?v=2Xiljy4xzbc)
 - [3 changes in the engineering job market, most saw 1](https://www.youtube.com/shorts/14rrZwYpu6Y)
-- [You Need to Get Your CCNA Right Now!!](https://www.youtube.com/watch?v=f9IolErKgsw)
-- [5 open source tools that replaced my $320/mo AI stack...](https://www.youtube.com/watch?v=Y5rSSvXfL4g)
-- [Omarchy Can Do WHAT?! 50 Features You’re Missing](https://www.youtube.com/watch?v=2IDjteRQgMQ)
 <!-- YOUTUBE:END -->
 
 ---
