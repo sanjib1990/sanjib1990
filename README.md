@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [European founders and VCs urge lawmakers ‘to get EU Inc right’](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
-- [US Army places $11M bet on Austin-based GPS alternative Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
-- [What comes after the moon? Artemis II commander and pilot shift to &#39;emeritus&#39; status at NASA](https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa)
-- [Strange &#39;fast radio bursts&#39; across the universe could help solve major cosmic mysteries: &#39;It&#39;s only the beginning&#39;](https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning)
-- [Watch SpaceX launch classified mission for the US Space Force today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153)
+- [Instagram’s latest feature lets you add tagged posts to your profile grid](https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/)
+- [Google is making it easier to switch between password managers on Android](https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/)
+- [Scientists study 3,000 supernovas and discover that dark energy may be evolving](https://www.space.com/astronomy/dark-universe/scientists-study-3-000-supernovas-and-discover-that-dark-energy-may-be-evolving)
+- [The next &#39;Star Trek&#39; movie will be inspired by &#39;Crimson Tide&#39;, and &#39;Strange New Worlds&#39; latest episode just showed them how to do it](https://www.space.com/entertainment/space-movies-shows/the-next-star-trek-movie-will-be-inspired-by-crimson-tide-and-strange-new-worlds-latest-episode-just-showed-them-how-to-do-it)
+- [The Boring Company raises $3B in round led by UAE](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
