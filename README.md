@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European founders and VCs urge lawmakers ‘to get EU Inc right’](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
+- [US Army places $11M bet on Austin-based GPS alternative Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
+- [What comes after the moon? Artemis II commander and pilot shift to &#39;emeritus&#39; status at NASA](https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa)
+- [Strange &#39;fast radio bursts&#39; across the universe could help solve major cosmic mysteries: &#39;It&#39;s only the beginning&#39;](https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning)
 - [Watch SpaceX launch classified mission for the US Space Force today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153)
-- [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/)
-- [Automattic’s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
-- [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
-- [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
