@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists discover mysterious new X-ray objects &#39;unlike any they have seen before&#39;](https://www.space.com/astronomy/galaxies/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before)
-- [Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/)
-- [Jensen Huang explains why Nvidia will grow an astounding 70% next year](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/)
-- [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
-- [OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)
+- [On this day in space! Sept. 11, 1985: The International Cometary Explorer makes 1st comet flyby in history for NASA and Europe](https://www.space.com/space-exploration/on-this-day-in-space-sept-11-1985-the-international-cometary-explorer-makes-1st-comet-flyby-in-history-for-nasa-and-europe)
+- [Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026](https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026)
+- [Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider](https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/)
+- [2 private spacecraft zoom within 650 feet of each other to showcase &#39;advanced capabilities&#39; in orbit &lpar;photos&rpar;](https://www.space.com/space-exploration/satellites/2-private-spacecraft-zoom-within-650-feet-of-each-other-to-showcase-advanced-capabilities-in-orbit-photos)
+- [25 years ago, a NASA astronaut witnessed the tragic 9/11 attacks from space. Here&#39;s what he saw.](https://www.space.com/space-exploration/human-spaceflight/25-years-ago-a-nasa-astronaut-witnessed-the-tragic-9-11-attacks-from-space-heres-what-he-saw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
