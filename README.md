@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On this day in space! Sept. 11, 1985: The International Cometary Explorer makes 1st comet flyby in history for NASA and Europe](https://www.space.com/space-exploration/on-this-day-in-space-sept-11-1985-the-international-cometary-explorer-makes-1st-comet-flyby-in-history-for-nasa-and-europe)
-- [Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026](https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026)
-- [Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider](https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/)
-- [2 private spacecraft zoom within 650 feet of each other to showcase &#39;advanced capabilities&#39; in orbit &lpar;photos&rpar;](https://www.space.com/space-exploration/satellites/2-private-spacecraft-zoom-within-650-feet-of-each-other-to-showcase-advanced-capabilities-in-orbit-photos)
-- [25 years ago, a NASA astronaut witnessed the tragic 9/11 attacks from space. Here&#39;s what he saw.](https://www.space.com/space-exploration/human-spaceflight/25-years-ago-a-nasa-astronaut-witnessed-the-tragic-9-11-attacks-from-space-heres-what-he-saw)
+- [Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal](https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal)
+- [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
+- [The sun may once have swallowed a super-Earth planet and could still be hiding the evidence](https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence)
+- [Matt Mullenweg tells &lpar;trolls?&rpar; Automattic staff, saying he’s back in control after CEO ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
+- [60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet](https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
