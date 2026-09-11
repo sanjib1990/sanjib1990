@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal](https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal)
-- [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
-- [The sun may once have swallowed a super-Earth planet and could still be hiding the evidence](https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence)
-- [Matt Mullenweg tells &lpar;trolls?&rpar; Automattic staff, saying he’s back in control after CEO ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
-- [60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet](https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet)
+- [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
+- [I&#39;ve chased the &#39;false dawn&#39; for years — this is the week to find and photograph it](https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it)
+- [Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+- [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
+- [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
