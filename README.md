@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [OpenAI&#39;s biggest math breakthrough is getting ugly...](https://www.youtube.com/watch?v=aspmNhKAFMc)
+- [AI Still Needs Network Engineers](https://www.youtube.com/shorts/BzfsGEr8lFg)
+- [Windows Took 90 Minutes. Omarchy Took 1.](https://www.youtube.com/shorts/6HPG3WGd1wQ)
 - [From CDs in India to Building AI Security at PayPal](https://www.youtube.com/watch?v=1dI09ZGoc3I)
 - [The AI Language We Can&#39;t Read: Neuralese ft. Rob Miles - Computerphile](https://www.youtube.com/watch?v=iuHddnIzKRA)
-- [I built the same game with Astra and Fable 5.1... only one was fun](https://www.youtube.com/watch?v=2Xiljy4xzbc)
-- [3 changes in the engineering job market, most saw 1](https://www.youtube.com/shorts/14rrZwYpu6Y)
 <!-- YOUTUBE:END -->
 
 ---
