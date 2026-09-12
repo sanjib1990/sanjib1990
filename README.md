@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, IBM launch new AI model for studying the moon](https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon)
 - [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
 - [Rocket Lab protests NASA&#39;s decision to award Blue Origin $700 million Mars orbiter contract](https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract)
 - [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
 - [I&#39;ve chased the &#39;false dawn&#39; for years — this is the week to find and photograph it](https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it)
-- [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
