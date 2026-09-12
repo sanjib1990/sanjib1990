@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA, IBM launch new AI model for studying the moon](https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon)
-- [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
-- [Rocket Lab protests NASA&#39;s decision to award Blue Origin $700 million Mars orbiter contract](https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract)
-- [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
-- [I&#39;ve chased the &#39;false dawn&#39; for years — this is the week to find and photograph it](https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it)
+- [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+- [Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military &lpar;op-ed&rpar;](https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed)
+- [On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space](https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026)
+- [This Week In Space podcast: Episode 227 — Trekmania](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania)
+- [The best &#39;Star Trek&#39; spaceships: 14 classic vessels from the Federation and beyond](https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 ---
